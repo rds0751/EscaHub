@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% block title %}{{ blog.title }}{% endblock %}
+
+{% block head %}
+  <link href="{% static 'css/articles.css' %}" rel="stylesheet">
+  <script src="{% static 'js/articles.js' %}"></script>
+{% endblock head %}
+
+{% block main %}
+  <ol class="breadcrumb">
+    <li><a href="{% url 'blogs' %}">{% trans 'Blogs' %}</a></li>
+    <li class="active">{% trans 'Blog' %}</li>
+  </ol>
+  {% include 'blog/partial_blog.html' with blog=blog %}
+  {% include 'blog/partial_blog_comments.html' with blog=blog %}
+{% endblock main %}

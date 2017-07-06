@@ -1,0 +1,1624 @@
+﻿
+2017-06-28T07:05:01: Start analysis
+2017-06-28T07:05:04: IncludeModulesFromModulePath = win32com
+2017-06-28T07:05:37: Deleting 0 files
+2017-06-28T07:05:37: Scraping builtin modules
+2017-06-28T07:05:37: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\PythonScraper.py" "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\\" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\\"
+2017-06-28T07:05:48: Output
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_codecs.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_collections.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_functools.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_heapq.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_io.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_locale.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_md5.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_random.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_sha256.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_sha512.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_sre.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_struct.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_warnings.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\_weakref.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\array.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\binascii.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\cmath.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\errno.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\gc.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\itertools.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\marshal.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\math.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\mmap.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\msvcrt.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\nt.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\sys.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\time.idb
+C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\CompletionDB\xxsubtype.idb
+2017-06-28T07:05:48: Scraped builtin modules
+2017-06-28T07:05:48: Scraping pyexpat
+2017-06-28T07:05:48: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape pyexpat c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\pyexpat"
+2017-06-28T07:05:50: Scraping select
+2017-06-28T07:05:50: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape select c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\select"
+2017-06-28T07:05:51: Scraping unicodedata
+2017-06-28T07:05:51: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape unicodedata c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\unicodedata"
+2017-06-28T07:05:53: Scraping winsound
+2017-06-28T07:05:53: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape winsound c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\winsound"
+2017-06-28T07:05:54: Scraping _asyncio
+2017-06-28T07:05:54: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _asyncio c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_asyncio"
+2017-06-28T07:05:59: Scraping _bz2
+2017-06-28T07:05:59: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _bz2 c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_bz2"
+2017-06-28T07:06:05: Scraping _ctypes
+2017-06-28T07:06:05: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _ctypes c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_ctypes"
+2017-06-28T07:06:08: Scraping _ctypes_test
+2017-06-28T07:06:08: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _ctypes_test c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_ctypes_test"
+2017-06-28T07:06:10: Scraping _decimal
+2017-06-28T07:06:10: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _decimal c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_decimal"
+2017-06-28T07:06:13: Scraping _elementtree
+2017-06-28T07:06:13: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _elementtree c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_elementtree"
+2017-06-28T07:06:16: Scraping _hashlib
+2017-06-28T07:06:16: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _hashlib c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_hashlib"
+2017-06-28T07:06:18: Scraping _lzma
+2017-06-28T07:06:18: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _lzma c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_lzma"
+2017-06-28T07:06:20: Scraping _msi
+2017-06-28T07:06:20: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _msi c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_msi"
+2017-06-28T07:06:23: Scraping _multiprocessing
+2017-06-28T07:06:23: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _multiprocessing c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_multiprocessing"
+2017-06-28T07:06:24: Scraping _overlapped
+2017-06-28T07:06:24: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _overlapped c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_overlapped"
+2017-06-28T07:06:26: Scraping _socket
+2017-06-28T07:06:26: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _socket c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_socket"
+2017-06-28T07:06:28: Scraping _sqlite3
+2017-06-28T07:06:28: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _sqlite3 c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_sqlite3"
+2017-06-28T07:06:30: Scraping _ssl
+2017-06-28T07:06:30: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _ssl c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_ssl"
+2017-06-28T07:06:31: Scraping _testbuffer
+2017-06-28T07:06:31: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _testbuffer c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_testbuffer"
+2017-06-28T07:06:32: Scraping _testcapi
+2017-06-28T07:06:32: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _testcapi c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_testcapi"
+2017-06-28T07:06:34: Scraping _testconsole
+2017-06-28T07:06:34: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _testconsole c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_testconsole"
+2017-06-28T07:06:35: Scraping _testimportmultiple
+2017-06-28T07:06:35: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _testimportmultiple c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_testimportmultiple"
+2017-06-28T07:06:37: Scraping _testmultiphase
+2017-06-28T07:06:37: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _testmultiphase c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_testmultiphase"
+2017-06-28T07:06:41: Scraping _tkinter
+2017-06-28T07:06:41: Command: "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\Scripts\python.exe" "C:\Program Files\Microsoft Visual Studio\Preview\Community\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape _tkinter c:\users\gaurav\appdata\local\programs\python\python36-32\dlls "c:\users\gaurav\documents\visual studio 2017\Projects\EscaHub\EscaHub\env\.ptvs\_tkinter"
+2017-06-28T07:06:44: Scraped 24 files
+2017-06-28T07:06:44: astropy.CallDepth = 0
+2017-06-28T07:06:44: delphixpy.CallDepth = 0
+2017-06-28T07:06:44: matplotlib.CallDepth = 3
+2017-06-28T07:06:44: pandas.CallDepth = 0
+2017-06-28T07:06:44: sympy.CallDepth = 0
+2017-06-28T07:06:44: Start group "c:\users\gaurav\appdata\local\programs\python\python36-32\lib" with 758 files
+2017-06-28T07:06:47: Parsing "abc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\abc.py")
+2017-06-28T07:06:49: Parsing "aifc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\aifc.py")
+2017-06-28T07:06:49: Parsing "antigravity" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\antigravity.py")
+2017-06-28T07:06:49: Parsing "argparse" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\argparse.py")
+2017-06-28T07:06:50: Parsing "ast" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ast.py")
+2017-06-28T07:06:50: Parsing "asynchat" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asynchat.py")
+2017-06-28T07:06:50: Parsing "asyncore" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncore.py")
+2017-06-28T07:06:50: Parsing "base64" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\base64.py")
+2017-06-28T07:06:50: Parsing "bdb" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\bdb.py")
+2017-06-28T07:06:50: Parsing "binhex" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\binhex.py")
+2017-06-28T07:06:50: Parsing "bisect" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\bisect.py")
+2017-06-28T07:06:50: Parsing "bz2" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\bz2.py")
+2017-06-28T07:06:50: Parsing "calendar" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\calendar.py")
+2017-06-28T07:06:50: Parsing "cgi" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\cgi.py")
+2017-06-28T07:06:51: Parsing "cgitb" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\cgitb.py")
+2017-06-28T07:06:51: Parsing "chunk" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\chunk.py")
+2017-06-28T07:06:51: Parsing "cmd" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\cmd.py")
+2017-06-28T07:06:51: Parsing "code" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\code.py")
+2017-06-28T07:06:51: Parsing "codecs" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\codecs.py")
+2017-06-28T07:06:51: Parsing "codeop" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\codeop.py")
+2017-06-28T07:06:51: Parsing "colorsys" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\colorsys.py")
+2017-06-28T07:06:51: Parsing "compileall" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\compileall.py")
+2017-06-28T07:06:51: Parsing "configparser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\configparser.py")
+2017-06-28T07:06:51: Parsing "contextlib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\contextlib.py")
+2017-06-28T07:06:51: Parsing "copy" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\copy.py")
+2017-06-28T07:06:51: Parsing "copyreg" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\copyreg.py")
+2017-06-28T07:06:51: Parsing "cProfile" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\cProfile.py")
+2017-06-28T07:06:51: Parsing "crypt" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\crypt.py")
+2017-06-28T07:06:52: Parsing "csv" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\csv.py")
+2017-06-28T07:06:52: Parsing "datetime" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\datetime.py")
+2017-06-28T07:06:52: Parsing "decimal" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\decimal.py")
+2017-06-28T07:06:52: Parsing "difflib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\difflib.py")
+2017-06-28T07:06:52: Parsing "dis" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\dis.py")
+2017-06-28T07:06:52: Parsing "doctest" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\doctest.py")
+2017-06-28T07:06:53: Parsing "dummy_threading" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\dummy_threading.py")
+2017-06-28T07:06:53: Parsing "enum" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\enum.py")
+2017-06-28T07:06:53: Parsing "filecmp" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\filecmp.py")
+2017-06-28T07:06:53: Parsing "fileinput" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\fileinput.py")
+2017-06-28T07:06:53: Parsing "fnmatch" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\fnmatch.py")
+2017-06-28T07:06:53: Parsing "formatter" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\formatter.py")
+2017-06-28T07:06:53: Parsing "fractions" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\fractions.py")
+2017-06-28T07:06:53: Parsing "ftplib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ftplib.py")
+2017-06-28T07:06:53: Parsing "functools" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\functools.py")
+2017-06-28T07:06:53: Parsing "genericpath" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\genericpath.py")
+2017-06-28T07:06:53: Parsing "getopt" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\getopt.py")
+2017-06-28T07:06:53: Parsing "getpass" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\getpass.py")
+2017-06-28T07:06:53: Parsing "gettext" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\gettext.py")
+2017-06-28T07:06:53: Parsing "glob" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\glob.py")
+2017-06-28T07:06:53: Parsing "gzip" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\gzip.py")
+2017-06-28T07:06:53: Parsing "hashlib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\hashlib.py")
+2017-06-28T07:06:53: Parsing "heapq" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\heapq.py")
+2017-06-28T07:06:53: Parsing "hmac" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\hmac.py")
+2017-06-28T07:06:53: Parsing "imaplib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\imaplib.py")
+2017-06-28T07:06:53: Parsing "imghdr" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\imghdr.py")
+2017-06-28T07:06:53: Parsing "imp" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\imp.py")
+2017-06-28T07:06:53: Parsing "inspect" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\inspect.py")
+2017-06-28T07:06:54: Parsing "io" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\io.py")
+2017-06-28T07:06:54: Parsing "ipaddress" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ipaddress.py")
+2017-06-28T07:06:54: Parsing "keyword" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\keyword.py")
+2017-06-28T07:06:54: Parsing "linecache" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\linecache.py")
+2017-06-28T07:06:54: Parsing "locale" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\locale.py")
+2017-06-28T07:06:54: Parsing "lzma" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lzma.py")
+2017-06-28T07:06:55: Parsing "macpath" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\macpath.py")
+2017-06-28T07:06:57: Parsing "macurl2path" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\macurl2path.py")
+2017-06-28T07:06:57: Parsing "mailbox" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\mailbox.py")
+2017-06-28T07:07:01: Parsing "mailcap" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\mailcap.py")
+2017-06-28T07:07:01: Parsing "mimetypes" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\mimetypes.py")
+2017-06-28T07:07:01: Parsing "modulefinder" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\modulefinder.py")
+2017-06-28T07:07:01: Parsing "netrc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\netrc.py")
+2017-06-28T07:07:01: Parsing "nntplib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\nntplib.py")
+2017-06-28T07:07:01: Parsing "ntpath" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ntpath.py")
+2017-06-28T07:07:01: Parsing "nturl2path" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\nturl2path.py")
+2017-06-28T07:07:01: Parsing "numbers" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\numbers.py")
+2017-06-28T07:07:01: Parsing "opcode" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\opcode.py")
+2017-06-28T07:07:02: Parsing "operator" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\operator.py")
+2017-06-28T07:07:02: Parsing "optparse" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\optparse.py")
+2017-06-28T07:07:02: Parsing "os" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\os.py")
+2017-06-28T07:07:02: Parsing "pathlib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pathlib.py")
+2017-06-28T07:07:02: Parsing "pdb" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pdb.py")
+2017-06-28T07:07:02: Parsing "pickle" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pickle.py")
+2017-06-28T07:07:02: Parsing "pickletools" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pickletools.py")
+2017-06-28T07:07:03: Parsing "pipes" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pipes.py")
+2017-06-28T07:07:03: Parsing "pkgutil" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pkgutil.py")
+2017-06-28T07:07:03: Parsing "platform" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\platform.py")
+2017-06-28T07:07:03: Parsing "plistlib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\plistlib.py")
+2017-06-28T07:07:03: Parsing "poplib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\poplib.py")
+2017-06-28T07:07:03: Parsing "posixpath" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\posixpath.py")
+2017-06-28T07:07:03: Parsing "pprint" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pprint.py")
+2017-06-28T07:07:03: Parsing "profile" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\profile.py")
+2017-06-28T07:07:03: Parsing "pstats" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pstats.py")
+2017-06-28T07:07:03: Parsing "pty" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pty.py")
+2017-06-28T07:07:03: Parsing "pyclbr" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pyclbr.py")
+2017-06-28T07:07:03: Parsing "pydoc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pydoc.py")
+2017-06-28T07:07:04: Parsing "py_compile" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\py_compile.py")
+2017-06-28T07:07:04: Parsing "queue" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\queue.py")
+2017-06-28T07:07:04: Parsing "quopri" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\quopri.py")
+2017-06-28T07:07:04: Parsing "random" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\random.py")
+2017-06-28T07:07:04: Parsing "re" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\re.py")
+2017-06-28T07:07:04: Parsing "reprlib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\reprlib.py")
+2017-06-28T07:07:04: Parsing "rlcompleter" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\rlcompleter.py")
+2017-06-28T07:07:04: Parsing "runpy" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\runpy.py")
+2017-06-28T07:07:04: Parsing "sched" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\sched.py")
+2017-06-28T07:07:04: Parsing "secrets" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\secrets.py")
+2017-06-28T07:07:04: Parsing "selectors" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\selectors.py")
+2017-06-28T07:07:04: Parsing "shelve" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\shelve.py")
+2017-06-28T07:07:04: Parsing "shlex" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\shlex.py")
+2017-06-28T07:07:04: Parsing "shutil" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\shutil.py")
+2017-06-28T07:07:05: Parsing "signal" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\signal.py")
+2017-06-28T07:07:05: Parsing "site" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\site.py")
+2017-06-28T07:07:05: Parsing "smtpd" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\smtpd.py")
+2017-06-28T07:07:05: Parsing "smtplib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\smtplib.py")
+2017-06-28T07:07:05: Parsing "sndhdr" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\sndhdr.py")
+2017-06-28T07:07:05: Parsing "socket" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\socket.py")
+2017-06-28T07:07:05: Parsing "socketserver" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\socketserver.py")
+2017-06-28T07:07:05: Parsing "sre_compile" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\sre_compile.py")
+2017-06-28T07:07:05: Parsing "sre_constants" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\sre_constants.py")
+2017-06-28T07:07:05: Parsing "sre_parse" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\sre_parse.py")
+2017-06-28T07:07:05: Parsing "ssl" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ssl.py")
+2017-06-28T07:07:05: Parsing "stat" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\stat.py")
+2017-06-28T07:07:05: Parsing "statistics" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\statistics.py")
+2017-06-28T07:07:05: Parsing "string" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\string.py")
+2017-06-28T07:07:05: Parsing "stringprep" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\stringprep.py")
+2017-06-28T07:07:05: Parsing "struct" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\struct.py")
+2017-06-28T07:07:05: Parsing "subprocess" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\subprocess.py")
+2017-06-28T07:07:05: Parsing "sunau" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\sunau.py")
+2017-06-28T07:07:05: Parsing "symbol" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\symbol.py")
+2017-06-28T07:07:05: Parsing "symtable" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\symtable.py")
+2017-06-28T07:07:05: Parsing "sysconfig" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\sysconfig.py")
+2017-06-28T07:07:05: Parsing "tabnanny" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tabnanny.py")
+2017-06-28T07:07:05: Parsing "tarfile" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tarfile.py")
+2017-06-28T07:07:06: Parsing "telnetlib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\telnetlib.py")
+2017-06-28T07:07:06: Parsing "tempfile" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tempfile.py")
+2017-06-28T07:07:06: Parsing "textwrap" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\textwrap.py")
+2017-06-28T07:07:06: Parsing "this" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\this.py")
+2017-06-28T07:07:06: Parsing "threading" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\threading.py")
+2017-06-28T07:07:06: Parsing "timeit" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\timeit.py")
+2017-06-28T07:07:06: Parsing "token" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\token.py")
+2017-06-28T07:07:06: Parsing "tokenize" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tokenize.py")
+2017-06-28T07:07:07: Parsing "trace" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\trace.py")
+2017-06-28T07:07:07: Parsing "traceback" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\traceback.py")
+2017-06-28T07:07:07: Parsing "tracemalloc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tracemalloc.py")
+2017-06-28T07:07:07: Parsing "tty" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tty.py")
+2017-06-28T07:07:08: Parsing "turtle" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtle.py")
+2017-06-28T07:07:08: Parsing "types" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\types.py")
+2017-06-28T07:07:08: Parsing "typing" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\typing.py")
+2017-06-28T07:07:08: Parsing "uu" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\uu.py")
+2017-06-28T07:07:08: Parsing "uuid" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\uuid.py")
+2017-06-28T07:07:08: Parsing "warnings" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\warnings.py")
+2017-06-28T07:07:08: Parsing "wave" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\wave.py")
+2017-06-28T07:07:08: Parsing "weakref" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\weakref.py")
+2017-06-28T07:07:08: Parsing "webbrowser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\webbrowser.py")
+2017-06-28T07:07:08: Parsing "xdrlib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xdrlib.py")
+2017-06-28T07:07:08: Parsing "zipapp" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\zipapp.py")
+2017-06-28T07:07:08: Parsing "zipfile" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\zipfile.py")
+2017-06-28T07:07:09: Parsing "_bootlocale" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_bootlocale.py")
+2017-06-28T07:07:09: Parsing "_collections_abc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_collections_abc.py")
+2017-06-28T07:07:09: Parsing "_compat_pickle" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_compat_pickle.py")
+2017-06-28T07:07:09: Parsing "_compression" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_compression.py")
+2017-06-28T07:07:09: Parsing "_dummy_thread" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_dummy_thread.py")
+2017-06-28T07:07:09: Parsing "_markupbase" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_markupbase.py")
+2017-06-28T07:07:09: Parsing "_osx_support" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_osx_support.py")
+2017-06-28T07:07:09: Parsing "_pydecimal" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_pydecimal.py")
+2017-06-28T07:07:09: Parsing "_pyio" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_pyio.py")
+2017-06-28T07:07:09: Parsing "_sitebuiltins" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_sitebuiltins.py")
+2017-06-28T07:07:09: Parsing "_strptime" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_strptime.py")
+2017-06-28T07:07:09: Parsing "_threading_local" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_threading_local.py")
+2017-06-28T07:07:09: Parsing "_weakrefset" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\_weakrefset.py")
+2017-06-28T07:07:09: Parsing "__future__" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\__future__.py")
+2017-06-28T07:07:09: Parsing "asyncio.base_events" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\base_events.py")
+2017-06-28T07:07:09: Parsing "asyncio.base_futures" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\base_futures.py")
+2017-06-28T07:07:10: Parsing "asyncio.base_subprocess" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\base_subprocess.py")
+2017-06-28T07:07:10: Parsing "asyncio.base_tasks" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\base_tasks.py")
+2017-06-28T07:07:10: Parsing "asyncio.compat" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\compat.py")
+2017-06-28T07:07:10: Parsing "asyncio.constants" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\constants.py")
+2017-06-28T07:07:10: Parsing "asyncio.coroutines" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\coroutines.py")
+2017-06-28T07:07:10: Parsing "asyncio.events" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\events.py")
+2017-06-28T07:07:10: Parsing "asyncio.futures" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\futures.py")
+2017-06-28T07:07:10: Parsing "asyncio.locks" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\locks.py")
+2017-06-28T07:07:10: Parsing "asyncio.log" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\log.py")
+2017-06-28T07:07:10: Parsing "asyncio.proactor_events" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\proactor_events.py")
+2017-06-28T07:07:10: Parsing "asyncio.protocols" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\protocols.py")
+2017-06-28T07:07:10: Parsing "asyncio.queues" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\queues.py")
+2017-06-28T07:07:10: Parsing "asyncio.selector_events" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\selector_events.py")
+2017-06-28T07:07:10: Parsing "asyncio.sslproto" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\sslproto.py")
+2017-06-28T07:07:10: Parsing "asyncio.streams" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\streams.py")
+2017-06-28T07:07:10: Parsing "asyncio.subprocess" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\subprocess.py")
+2017-06-28T07:07:10: Parsing "asyncio.tasks" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\tasks.py")
+2017-06-28T07:07:10: Parsing "asyncio.test_utils" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\test_utils.py")
+2017-06-28T07:07:10: Parsing "asyncio.transports" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\transports.py")
+2017-06-28T07:07:10: Parsing "asyncio.unix_events" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\unix_events.py")
+2017-06-28T07:07:10: Parsing "asyncio.windows_events" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\windows_events.py")
+2017-06-28T07:07:10: Parsing "asyncio.windows_utils" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\windows_utils.py")
+2017-06-28T07:07:10: Parsing "asyncio" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\asyncio\__init__.py")
+2017-06-28T07:07:10: Parsing "collections.abc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\collections\abc.py")
+2017-06-28T07:07:10: Parsing "collections" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\collections\__init__.py")
+2017-06-28T07:07:10: Parsing "concurrent" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\concurrent\__init__.py")
+2017-06-28T07:07:10: Parsing "concurrent.futures.process" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\concurrent\futures\process.py")
+2017-06-28T07:07:10: Parsing "concurrent.futures.thread" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\concurrent\futures\thread.py")
+2017-06-28T07:07:10: Parsing "concurrent.futures._base" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\concurrent\futures\_base.py")
+2017-06-28T07:07:10: Parsing "concurrent.futures" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\concurrent\futures\__init__.py")
+2017-06-28T07:07:10: Parsing "ctypes.util" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ctypes\util.py")
+2017-06-28T07:07:10: Parsing "ctypes.wintypes" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ctypes\wintypes.py")
+2017-06-28T07:07:10: Parsing "ctypes._endian" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ctypes\_endian.py")
+2017-06-28T07:07:10: Parsing "ctypes" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ctypes\__init__.py")
+2017-06-28T07:07:10: Parsing "ctypes.macholib.dyld" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ctypes\macholib\dyld.py")
+2017-06-28T07:07:11: Parsing "ctypes.macholib.dylib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ctypes\macholib\dylib.py")
+2017-06-28T07:07:11: Parsing "ctypes.macholib.framework" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ctypes\macholib\framework.py")
+2017-06-28T07:07:11: Parsing "ctypes.macholib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ctypes\macholib\__init__.py")
+2017-06-28T07:07:11: Parsing "curses.ascii" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\curses\ascii.py")
+2017-06-28T07:07:11: Parsing "curses.has_key" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\curses\has_key.py")
+2017-06-28T07:07:11: Parsing "curses.panel" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\curses\panel.py")
+2017-06-28T07:07:11: Parsing "curses.textpad" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\curses\textpad.py")
+2017-06-28T07:07:11: Parsing "curses" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\curses\__init__.py")
+2017-06-28T07:07:11: Parsing "dbm.dumb" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\dbm\dumb.py")
+2017-06-28T07:07:11: Parsing "dbm.gnu" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\dbm\gnu.py")
+2017-06-28T07:07:11: Parsing "dbm.ndbm" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\dbm\ndbm.py")
+2017-06-28T07:07:11: Parsing "dbm" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\dbm\__init__.py")
+2017-06-28T07:07:11: Parsing "distutils.archive_util" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\archive_util.py")
+2017-06-28T07:07:11: Parsing "distutils.bcppcompiler" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\bcppcompiler.py")
+2017-06-28T07:07:11: Parsing "distutils.ccompiler" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\ccompiler.py")
+2017-06-28T07:07:11: Parsing "distutils.cmd" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\cmd.py")
+2017-06-28T07:07:11: Parsing "distutils.config" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\config.py")
+2017-06-28T07:07:11: Parsing "distutils.core" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\core.py")
+2017-06-28T07:07:11: Parsing "distutils.cygwinccompiler" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\cygwinccompiler.py")
+2017-06-28T07:07:11: Parsing "distutils.debug" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\debug.py")
+2017-06-28T07:07:11: Parsing "distutils.dep_util" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\dep_util.py")
+2017-06-28T07:07:11: Parsing "distutils.dir_util" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\dir_util.py")
+2017-06-28T07:07:11: Parsing "distutils.dist" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\dist.py")
+2017-06-28T07:07:11: Parsing "distutils.errors" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\errors.py")
+2017-06-28T07:07:11: Parsing "distutils.extension" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\extension.py")
+2017-06-28T07:07:11: Parsing "distutils.fancy_getopt" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\fancy_getopt.py")
+2017-06-28T07:07:11: Parsing "distutils.filelist" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\filelist.py")
+2017-06-28T07:07:11: Parsing "distutils.file_util" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\file_util.py")
+2017-06-28T07:07:11: Parsing "distutils.log" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\log.py")
+2017-06-28T07:07:11: Parsing "distutils.msvc9compiler" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\msvc9compiler.py")
+2017-06-28T07:07:11: Parsing "distutils.msvccompiler" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\msvccompiler.py")
+2017-06-28T07:07:11: Parsing "distutils.spawn" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\spawn.py")
+2017-06-28T07:07:11: Parsing "distutils.sysconfig" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\sysconfig.py")
+2017-06-28T07:07:11: Parsing "distutils.text_file" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\text_file.py")
+2017-06-28T07:07:11: Parsing "distutils.unixccompiler" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\unixccompiler.py")
+2017-06-28T07:07:11: Parsing "distutils.util" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\util.py")
+2017-06-28T07:07:11: Parsing "distutils.version" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\version.py")
+2017-06-28T07:07:12: Parsing "distutils.versionpredicate" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\versionpredicate.py")
+2017-06-28T07:07:12: Parsing "distutils._msvccompiler" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\_msvccompiler.py")
+2017-06-28T07:07:12: Parsing "distutils" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\__init__.py")
+2017-06-28T07:07:12: Parsing "distutils.command.bdist" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\bdist.py")
+2017-06-28T07:07:12: Parsing "distutils.command.bdist_dumb" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\bdist_dumb.py")
+2017-06-28T07:07:12: Parsing "distutils.command.bdist_msi" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\bdist_msi.py")
+2017-06-28T07:07:12: Parsing "distutils.command.bdist_rpm" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\bdist_rpm.py")
+2017-06-28T07:07:12: Parsing "distutils.command.bdist_wininst" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\bdist_wininst.py")
+2017-06-28T07:07:12: Parsing "distutils.command.build" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\build.py")
+2017-06-28T07:07:12: Parsing "distutils.command.build_clib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\build_clib.py")
+2017-06-28T07:07:12: Parsing "distutils.command.build_ext" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\build_ext.py")
+2017-06-28T07:07:12: Parsing "distutils.command.build_py" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\build_py.py")
+2017-06-28T07:07:12: Parsing "distutils.command.build_scripts" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\build_scripts.py")
+2017-06-28T07:07:12: Parsing "distutils.command.check" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\check.py")
+2017-06-28T07:07:12: Parsing "distutils.command.clean" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\clean.py")
+2017-06-28T07:07:12: Parsing "distutils.command.config" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\config.py")
+2017-06-28T07:07:12: Parsing "distutils.command.install" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\install.py")
+2017-06-28T07:07:12: Parsing "distutils.command.install_data" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\install_data.py")
+2017-06-28T07:07:12: Parsing "distutils.command.install_egg_info" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\install_egg_info.py")
+2017-06-28T07:07:12: Parsing "distutils.command.install_headers" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\install_headers.py")
+2017-06-28T07:07:12: Parsing "distutils.command.install_lib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\install_lib.py")
+2017-06-28T07:07:12: Parsing "distutils.command.install_scripts" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\install_scripts.py")
+2017-06-28T07:07:12: Parsing "distutils.command.register" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\register.py")
+2017-06-28T07:07:12: Parsing "distutils.command.sdist" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\sdist.py")
+2017-06-28T07:07:12: Parsing "distutils.command.upload" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\upload.py")
+2017-06-28T07:07:12: Parsing "distutils.command" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\distutils\command\__init__.py")
+2017-06-28T07:07:12: Parsing "email.base64mime" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\base64mime.py")
+2017-06-28T07:07:12: Parsing "email.charset" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\charset.py")
+2017-06-28T07:07:12: Parsing "email.contentmanager" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\contentmanager.py")
+2017-06-28T07:07:12: Parsing "email.encoders" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\encoders.py")
+2017-06-28T07:07:12: Parsing "email.errors" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\errors.py")
+2017-06-28T07:07:12: Parsing "email.feedparser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\feedparser.py")
+2017-06-28T07:07:12: Parsing "email.generator" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\generator.py")
+2017-06-28T07:07:12: Parsing "email.header" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\header.py")
+2017-06-28T07:07:12: Parsing "email.headerregistry" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\headerregistry.py")
+2017-06-28T07:07:12: Parsing "email.iterators" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\iterators.py")
+2017-06-28T07:07:12: Parsing "email.message" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\message.py")
+2017-06-28T07:07:13: Parsing "email.parser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\parser.py")
+2017-06-28T07:07:13: Parsing "email.policy" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\policy.py")
+2017-06-28T07:07:13: Parsing "email.quoprimime" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\quoprimime.py")
+2017-06-28T07:07:13: Parsing "email.utils" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\utils.py")
+2017-06-28T07:07:13: Parsing "email._encoded_words" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\_encoded_words.py")
+2017-06-28T07:07:13: Parsing "email._header_value_parser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\_header_value_parser.py")
+2017-06-28T07:07:13: Parsing "email._parseaddr" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\_parseaddr.py")
+2017-06-28T07:07:13: Parsing "email._policybase" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\_policybase.py")
+2017-06-28T07:07:13: Parsing "email" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\__init__.py")
+2017-06-28T07:07:13: Parsing "email.mime.application" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\mime\application.py")
+2017-06-28T07:07:13: Parsing "email.mime.audio" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\mime\audio.py")
+2017-06-28T07:07:13: Parsing "email.mime.base" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\mime\base.py")
+2017-06-28T07:07:13: Parsing "email.mime.image" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\mime\image.py")
+2017-06-28T07:07:13: Parsing "email.mime.message" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\mime\message.py")
+2017-06-28T07:07:13: Parsing "email.mime.multipart" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\mime\multipart.py")
+2017-06-28T07:07:13: Parsing "email.mime.nonmultipart" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\mime\nonmultipart.py")
+2017-06-28T07:07:13: Parsing "email.mime.text" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\mime\text.py")
+2017-06-28T07:07:13: Parsing "email.mime" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\email\mime\__init__.py")
+2017-06-28T07:07:13: Parsing "encodings.aliases" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\aliases.py")
+2017-06-28T07:07:13: Parsing "encodings.ascii" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\ascii.py")
+2017-06-28T07:07:13: Parsing "encodings.base64_codec" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\base64_codec.py")
+2017-06-28T07:07:13: Parsing "encodings.big5" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\big5.py")
+2017-06-28T07:07:13: Parsing "encodings.big5hkscs" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\big5hkscs.py")
+2017-06-28T07:07:13: Parsing "encodings.bz2_codec" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\bz2_codec.py")
+2017-06-28T07:07:13: Parsing "encodings.charmap" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\charmap.py")
+2017-06-28T07:07:13: Parsing "encodings.cp037" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp037.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1006" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1006.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1026" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1026.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1125" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1125.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1140" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1140.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1250" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1250.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1251" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1251.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1252" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1252.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1253" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1253.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1254" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1254.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1255" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1255.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1256" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1256.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1257" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1257.py")
+2017-06-28T07:07:13: Parsing "encodings.cp1258" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp1258.py")
+2017-06-28T07:07:13: Parsing "encodings.cp273" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp273.py")
+2017-06-28T07:07:13: Parsing "encodings.cp424" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp424.py")
+2017-06-28T07:07:13: Parsing "encodings.cp437" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp437.py")
+2017-06-28T07:07:13: Parsing "encodings.cp500" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp500.py")
+2017-06-28T07:07:14: Parsing "encodings.cp65001" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp65001.py")
+2017-06-28T07:07:14: Parsing "encodings.cp720" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp720.py")
+2017-06-28T07:07:14: Parsing "encodings.cp737" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp737.py")
+2017-06-28T07:07:14: Parsing "encodings.cp775" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp775.py")
+2017-06-28T07:07:14: Parsing "encodings.cp850" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp850.py")
+2017-06-28T07:07:14: Parsing "encodings.cp852" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp852.py")
+2017-06-28T07:07:14: Parsing "encodings.cp855" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp855.py")
+2017-06-28T07:07:14: Parsing "encodings.cp856" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp856.py")
+2017-06-28T07:07:14: Parsing "encodings.cp857" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp857.py")
+2017-06-28T07:07:14: Parsing "encodings.cp858" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp858.py")
+2017-06-28T07:07:14: Parsing "encodings.cp860" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp860.py")
+2017-06-28T07:07:14: Parsing "encodings.cp861" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp861.py")
+2017-06-28T07:07:14: Parsing "encodings.cp862" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp862.py")
+2017-06-28T07:07:14: Parsing "encodings.cp863" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp863.py")
+2017-06-28T07:07:14: Parsing "encodings.cp864" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp864.py")
+2017-06-28T07:07:14: Parsing "encodings.cp865" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp865.py")
+2017-06-28T07:07:14: Parsing "encodings.cp866" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp866.py")
+2017-06-28T07:07:14: Parsing "encodings.cp869" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp869.py")
+2017-06-28T07:07:14: Parsing "encodings.cp874" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp874.py")
+2017-06-28T07:07:14: Parsing "encodings.cp875" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp875.py")
+2017-06-28T07:07:14: Parsing "encodings.cp932" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp932.py")
+2017-06-28T07:07:14: Parsing "encodings.cp949" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp949.py")
+2017-06-28T07:07:14: Parsing "encodings.cp950" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\cp950.py")
+2017-06-28T07:07:14: Parsing "encodings.euc_jisx0213" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\euc_jisx0213.py")
+2017-06-28T07:07:14: Parsing "encodings.euc_jis_2004" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\euc_jis_2004.py")
+2017-06-28T07:07:14: Parsing "encodings.euc_jp" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\euc_jp.py")
+2017-06-28T07:07:14: Parsing "encodings.euc_kr" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\euc_kr.py")
+2017-06-28T07:07:14: Parsing "encodings.gb18030" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\gb18030.py")
+2017-06-28T07:07:14: Parsing "encodings.gb2312" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\gb2312.py")
+2017-06-28T07:07:14: Parsing "encodings.gbk" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\gbk.py")
+2017-06-28T07:07:14: Parsing "encodings.hex_codec" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\hex_codec.py")
+2017-06-28T07:07:14: Parsing "encodings.hp_roman8" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\hp_roman8.py")
+2017-06-28T07:07:14: Parsing "encodings.hz" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\hz.py")
+2017-06-28T07:07:14: Parsing "encodings.idna" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\idna.py")
+2017-06-28T07:07:14: Parsing "encodings.iso2022_jp" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso2022_jp.py")
+2017-06-28T07:07:14: Parsing "encodings.iso2022_jp_1" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso2022_jp_1.py")
+2017-06-28T07:07:14: Parsing "encodings.iso2022_jp_2" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso2022_jp_2.py")
+2017-06-28T07:07:14: Parsing "encodings.iso2022_jp_2004" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso2022_jp_2004.py")
+2017-06-28T07:07:14: Parsing "encodings.iso2022_jp_3" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso2022_jp_3.py")
+2017-06-28T07:07:14: Parsing "encodings.iso2022_jp_ext" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso2022_jp_ext.py")
+2017-06-28T07:07:14: Parsing "encodings.iso2022_kr" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso2022_kr.py")
+2017-06-28T07:07:14: Parsing "encodings.iso8859_1" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_1.py")
+2017-06-28T07:07:14: Parsing "encodings.iso8859_10" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_10.py")
+2017-06-28T07:07:14: Parsing "encodings.iso8859_11" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_11.py")
+2017-06-28T07:07:14: Parsing "encodings.iso8859_13" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_13.py")
+2017-06-28T07:07:14: Parsing "encodings.iso8859_14" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_14.py")
+2017-06-28T07:07:14: Parsing "encodings.iso8859_15" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_15.py")
+2017-06-28T07:07:15: Parsing "encodings.iso8859_16" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_16.py")
+2017-06-28T07:07:15: Parsing "encodings.iso8859_2" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_2.py")
+2017-06-28T07:07:15: Parsing "encodings.iso8859_3" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_3.py")
+2017-06-28T07:07:15: Parsing "encodings.iso8859_4" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_4.py")
+2017-06-28T07:07:15: Parsing "encodings.iso8859_5" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_5.py")
+2017-06-28T07:07:15: Parsing "encodings.iso8859_6" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_6.py")
+2017-06-28T07:07:15: Parsing "encodings.iso8859_7" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_7.py")
+2017-06-28T07:07:15: Parsing "encodings.iso8859_8" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_8.py")
+2017-06-28T07:07:15: Parsing "encodings.iso8859_9" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\iso8859_9.py")
+2017-06-28T07:07:15: Parsing "encodings.johab" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\johab.py")
+2017-06-28T07:07:15: Parsing "encodings.koi8_r" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\koi8_r.py")
+2017-06-28T07:07:15: Parsing "encodings.koi8_t" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\koi8_t.py")
+2017-06-28T07:07:15: Parsing "encodings.koi8_u" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\koi8_u.py")
+2017-06-28T07:07:15: Parsing "encodings.kz1048" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\kz1048.py")
+2017-06-28T07:07:15: Parsing "encodings.latin_1" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\latin_1.py")
+2017-06-28T07:07:15: Parsing "encodings.mac_arabic" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mac_arabic.py")
+2017-06-28T07:07:15: Parsing "encodings.mac_centeuro" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mac_centeuro.py")
+2017-06-28T07:07:15: Parsing "encodings.mac_croatian" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mac_croatian.py")
+2017-06-28T07:07:15: Parsing "encodings.mac_cyrillic" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mac_cyrillic.py")
+2017-06-28T07:07:15: Parsing "encodings.mac_farsi" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mac_farsi.py")
+2017-06-28T07:07:15: Parsing "encodings.mac_greek" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mac_greek.py")
+2017-06-28T07:07:15: Parsing "encodings.mac_iceland" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mac_iceland.py")
+2017-06-28T07:07:15: Parsing "encodings.mac_latin2" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mac_latin2.py")
+2017-06-28T07:07:15: Parsing "encodings.mac_roman" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mac_roman.py")
+2017-06-28T07:07:15: Parsing "encodings.mac_romanian" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mac_romanian.py")
+2017-06-28T07:07:15: Parsing "encodings.mac_turkish" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mac_turkish.py")
+2017-06-28T07:07:15: Parsing "encodings.mbcs" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\mbcs.py")
+2017-06-28T07:07:15: Parsing "encodings.oem" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\oem.py")
+2017-06-28T07:07:15: Parsing "encodings.palmos" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\palmos.py")
+2017-06-28T07:07:15: Parsing "encodings.ptcp154" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\ptcp154.py")
+2017-06-28T07:07:15: Parsing "encodings.punycode" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\punycode.py")
+2017-06-28T07:07:15: Parsing "encodings.quopri_codec" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\quopri_codec.py")
+2017-06-28T07:07:15: Parsing "encodings.raw_unicode_escape" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\raw_unicode_escape.py")
+2017-06-28T07:07:15: Parsing "encodings.rot_13" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\rot_13.py")
+2017-06-28T07:07:15: Parsing "encodings.shift_jis" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\shift_jis.py")
+2017-06-28T07:07:15: Parsing "encodings.shift_jisx0213" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\shift_jisx0213.py")
+2017-06-28T07:07:15: Parsing "encodings.shift_jis_2004" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\shift_jis_2004.py")
+2017-06-28T07:07:15: Parsing "encodings.tis_620" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\tis_620.py")
+2017-06-28T07:07:15: Parsing "encodings.undefined" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\undefined.py")
+2017-06-28T07:07:15: Parsing "encodings.unicode_escape" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\unicode_escape.py")
+2017-06-28T07:07:15: Parsing "encodings.unicode_internal" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\unicode_internal.py")
+2017-06-28T07:07:15: Parsing "encodings.utf_16" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\utf_16.py")
+2017-06-28T07:07:15: Parsing "encodings.utf_16_be" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\utf_16_be.py")
+2017-06-28T07:07:15: Parsing "encodings.utf_16_le" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\utf_16_le.py")
+2017-06-28T07:07:15: Parsing "encodings.utf_32" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\utf_32.py")
+2017-06-28T07:07:15: Parsing "encodings.utf_32_be" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\utf_32_be.py")
+2017-06-28T07:07:15: Parsing "encodings.utf_32_le" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\utf_32_le.py")
+2017-06-28T07:07:15: Parsing "encodings.utf_7" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\utf_7.py")
+2017-06-28T07:07:15: Parsing "encodings.utf_8" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\utf_8.py")
+2017-06-28T07:07:15: Parsing "encodings.utf_8_sig" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\utf_8_sig.py")
+2017-06-28T07:07:15: Parsing "encodings.uu_codec" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\uu_codec.py")
+2017-06-28T07:07:15: Parsing "encodings.zlib_codec" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\zlib_codec.py")
+2017-06-28T07:07:15: Parsing "encodings" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\encodings\__init__.py")
+2017-06-28T07:07:15: Parsing "ensurepip._uninstall" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ensurepip\_uninstall.py")
+2017-06-28T07:07:15: Parsing "ensurepip" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ensurepip\__init__.py")
+2017-06-28T07:07:15: Parsing "ensurepip.__main__" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\ensurepip\__main__.py")
+2017-06-28T07:07:15: Parsing "html.entities" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\html\entities.py")
+2017-06-28T07:07:16: Parsing "html.parser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\html\parser.py")
+2017-06-28T07:07:16: Parsing "html" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\html\__init__.py")
+2017-06-28T07:07:16: Parsing "http.client" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\http\client.py")
+2017-06-28T07:07:16: Parsing "http.cookiejar" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\http\cookiejar.py")
+2017-06-28T07:07:16: Parsing "http.cookies" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\http\cookies.py")
+2017-06-28T07:07:16: Parsing "http.server" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\http\server.py")
+2017-06-28T07:07:16: Parsing "http" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\http\__init__.py")
+2017-06-28T07:07:16: Parsing "idlelib.autocomplete" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\autocomplete.py")
+2017-06-28T07:07:16: Parsing "idlelib.autocomplete_w" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\autocomplete_w.py")
+2017-06-28T07:07:16: Parsing "idlelib.autoexpand" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\autoexpand.py")
+2017-06-28T07:07:16: Parsing "idlelib.browser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\browser.py")
+2017-06-28T07:07:16: Parsing "idlelib.calltips" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\calltips.py")
+2017-06-28T07:07:16: Parsing "idlelib.calltip_w" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\calltip_w.py")
+2017-06-28T07:07:16: Parsing "idlelib.codecontext" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\codecontext.py")
+2017-06-28T07:07:16: Parsing "idlelib.colorizer" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\colorizer.py")
+2017-06-28T07:07:16: Parsing "idlelib.config" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\config.py")
+2017-06-28T07:07:16: Parsing "idlelib.configdialog" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\configdialog.py")
+2017-06-28T07:07:16: Parsing "idlelib.config_key" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\config_key.py")
+2017-06-28T07:07:16: Parsing "idlelib.debugger" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\debugger.py")
+2017-06-28T07:07:16: Parsing "idlelib.debugger_r" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\debugger_r.py")
+2017-06-28T07:07:16: Parsing "idlelib.debugobj" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\debugobj.py")
+2017-06-28T07:07:16: Parsing "idlelib.debugobj_r" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\debugobj_r.py")
+2017-06-28T07:07:16: Parsing "idlelib.delegator" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\delegator.py")
+2017-06-28T07:07:16: Parsing "idlelib.dynoption" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\dynoption.py")
+2017-06-28T07:07:16: Parsing "idlelib.editor" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\editor.py")
+2017-06-28T07:07:17: Parsing "idlelib.filelist" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\filelist.py")
+2017-06-28T07:07:17: Parsing "idlelib.grep" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\grep.py")
+2017-06-28T07:07:17: Parsing "idlelib.help" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\help.py")
+2017-06-28T07:07:17: Parsing "idlelib.help_about" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\help_about.py")
+2017-06-28T07:07:17: Parsing "idlelib.history" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\history.py")
+2017-06-28T07:07:17: Parsing "idlelib.hyperparser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\hyperparser.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle.py")
+2017-06-28T07:07:17: Parsing "idlelib.iomenu" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\iomenu.py")
+2017-06-28T07:07:17: Parsing "idlelib.macosx" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\macosx.py")
+2017-06-28T07:07:17: Parsing "idlelib.mainmenu" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\mainmenu.py")
+2017-06-28T07:07:17: Parsing "idlelib.multicall" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\multicall.py")
+2017-06-28T07:07:17: Parsing "idlelib.outwin" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\outwin.py")
+2017-06-28T07:07:17: Parsing "idlelib.paragraph" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\paragraph.py")
+2017-06-28T07:07:17: Parsing "idlelib.parenmatch" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\parenmatch.py")
+2017-06-28T07:07:17: Parsing "idlelib.pathbrowser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\pathbrowser.py")
+2017-06-28T07:07:17: Parsing "idlelib.percolator" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\percolator.py")
+2017-06-28T07:07:17: Parsing "idlelib.pyparse" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\pyparse.py")
+2017-06-28T07:07:17: Parsing "idlelib.pyshell" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\pyshell.py")
+2017-06-28T07:07:17: Parsing "idlelib.query" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\query.py")
+2017-06-28T07:07:17: Parsing "idlelib.redirector" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\redirector.py")
+2017-06-28T07:07:17: Parsing "idlelib.replace" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\replace.py")
+2017-06-28T07:07:17: Parsing "idlelib.rpc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\rpc.py")
+2017-06-28T07:07:17: Parsing "idlelib.rstrip" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\rstrip.py")
+2017-06-28T07:07:17: Parsing "idlelib.run" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\run.py")
+2017-06-28T07:07:17: Parsing "idlelib.runscript" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\runscript.py")
+2017-06-28T07:07:17: Parsing "idlelib.scrolledlist" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\scrolledlist.py")
+2017-06-28T07:07:17: Parsing "idlelib.search" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\search.py")
+2017-06-28T07:07:17: Parsing "idlelib.searchbase" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\searchbase.py")
+2017-06-28T07:07:17: Parsing "idlelib.searchengine" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\searchengine.py")
+2017-06-28T07:07:17: Parsing "idlelib.stackviewer" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\stackviewer.py")
+2017-06-28T07:07:17: Parsing "idlelib.statusbar" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\statusbar.py")
+2017-06-28T07:07:17: Parsing "idlelib.tabbedpages" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\tabbedpages.py")
+2017-06-28T07:07:17: Parsing "idlelib.textview" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\textview.py")
+2017-06-28T07:07:17: Parsing "idlelib.tooltip" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\tooltip.py")
+2017-06-28T07:07:17: Parsing "idlelib.tree" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\tree.py")
+2017-06-28T07:07:17: Parsing "idlelib.undo" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\undo.py")
+2017-06-28T07:07:17: Parsing "idlelib.windows" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\windows.py")
+2017-06-28T07:07:17: Parsing "idlelib.zoomheight" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\zoomheight.py")
+2017-06-28T07:07:17: Parsing "idlelib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\__init__.py")
+2017-06-28T07:07:17: Parsing "idlelib.__main__" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\__main__.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.htest" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\htest.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.mock_idle" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\mock_idle.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.mock_tk" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\mock_tk.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_autocomplete" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_autocomplete.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_autoexpand" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_autoexpand.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_calltips" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_calltips.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_colorizer" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_colorizer.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_config" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_config.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_configdialog" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_configdialog.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_config_key" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_config_key.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_debugger" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_debugger.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_delegator" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_delegator.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_editmenu" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_editmenu.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_editor" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_editor.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_grep" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_grep.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_help" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_help.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_help_about" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_help_about.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_history" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_history.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_hyperparser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_hyperparser.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_iomenu" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_iomenu.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_macosx" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_macosx.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_paragraph" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_paragraph.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_parenmatch" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_parenmatch.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_pathbrowser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_pathbrowser.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_percolator" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_percolator.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_query" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_query.py")
+2017-06-28T07:07:17: Parsing "idlelib.idle_test.test_redirector" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_redirector.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test.test_replace" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_replace.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test.test_rstrip" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_rstrip.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test.test_scrolledlist" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_scrolledlist.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test.test_search" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_search.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test.test_searchbase" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_searchbase.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test.test_searchengine" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_searchengine.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test.test_text" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_text.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test.test_textview" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_textview.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test.test_tree" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_tree.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test.test_undo" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_undo.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test.test_warning" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\test_warning.py")
+2017-06-28T07:07:18: Parsing "idlelib.idle_test" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\idlelib\idle_test\__init__.py")
+2017-06-28T07:07:18: Parsing "importlib.abc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\importlib\abc.py")
+2017-06-28T07:07:18: Parsing "importlib.machinery" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\importlib\machinery.py")
+2017-06-28T07:07:18: Parsing "importlib.util" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\importlib\util.py")
+2017-06-28T07:07:18: Parsing "importlib._bootstrap" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\importlib\_bootstrap.py")
+2017-06-28T07:07:18: Parsing "importlib._bootstrap_external" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\importlib\_bootstrap_external.py")
+2017-06-28T07:07:18: Parsing "importlib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\importlib\__init__.py")
+2017-06-28T07:07:18: Parsing "json.decoder" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\json\decoder.py")
+2017-06-28T07:07:18: Parsing "json.encoder" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\json\encoder.py")
+2017-06-28T07:07:18: Parsing "json.scanner" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\json\scanner.py")
+2017-06-28T07:07:18: Parsing "json.tool" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\json\tool.py")
+2017-06-28T07:07:18: Parsing "json" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\json\__init__.py")
+2017-06-28T07:07:18: Parsing "lib2to3.btm_matcher" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\btm_matcher.py")
+2017-06-28T07:07:18: Parsing "lib2to3.btm_utils" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\btm_utils.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixer_base" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixer_base.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixer_util" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixer_util.py")
+2017-06-28T07:07:19: Parsing "lib2to3.main" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\main.py")
+2017-06-28T07:07:19: Parsing "lib2to3.patcomp" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\patcomp.py")
+2017-06-28T07:07:19: Parsing "lib2to3.pygram" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\pygram.py")
+2017-06-28T07:07:19: Parsing "lib2to3.pytree" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\pytree.py")
+2017-06-28T07:07:19: Parsing "lib2to3.refactor" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\refactor.py")
+2017-06-28T07:07:19: Parsing "lib2to3" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\__init__.py")
+2017-06-28T07:07:19: Parsing "lib2to3.__main__" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\__main__.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_apply" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_apply.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_asserts" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_asserts.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_basestring" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_basestring.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_buffer" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_buffer.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_dict" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_dict.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_except" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_except.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_exec" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_exec.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_execfile" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_execfile.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_exitfunc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_exitfunc.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_filter" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_filter.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_funcattrs" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_funcattrs.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_future" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_future.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_getcwdu" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_getcwdu.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_has_key" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_has_key.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_idioms" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_idioms.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_import" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_import.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_imports" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_imports.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_imports2" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_imports2.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_input" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_input.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_intern" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_intern.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_isinstance" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_isinstance.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_itertools" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_itertools.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_itertools_imports" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_itertools_imports.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_long" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_long.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_map" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_map.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_metaclass" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_metaclass.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_methodattrs" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_methodattrs.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_ne" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_ne.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_next" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_next.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_nonzero" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_nonzero.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_numliterals" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_numliterals.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_operator" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_operator.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_paren" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_paren.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_print" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_print.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_raise" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_raise.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_raw_input" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_raw_input.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_reduce" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_reduce.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_reload" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_reload.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_renames" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_renames.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_repr" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_repr.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_set_literal" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_set_literal.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_standarderror" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_standarderror.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_sys_exc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_sys_exc.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_throw" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_throw.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_tuple_params" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_tuple_params.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_types" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_types.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_unicode" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_unicode.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_urllib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_urllib.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_ws_comma" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_ws_comma.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_xrange" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_xrange.py")
+2017-06-28T07:07:19: Parsing "lib2to3.fixes.fix_xreadlines" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_xreadlines.py")
+2017-06-28T07:07:20: Parsing "lib2to3.fixes.fix_zip" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\fix_zip.py")
+2017-06-28T07:07:20: Parsing "lib2to3.fixes" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\fixes\__init__.py")
+2017-06-28T07:07:20: Parsing "lib2to3.pgen2.conv" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\pgen2\conv.py")
+2017-06-28T07:07:20: Parsing "lib2to3.pgen2.driver" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\pgen2\driver.py")
+2017-06-28T07:07:20: Parsing "lib2to3.pgen2.grammar" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\pgen2\grammar.py")
+2017-06-28T07:07:20: Parsing "lib2to3.pgen2.literals" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\pgen2\literals.py")
+2017-06-28T07:07:20: Parsing "lib2to3.pgen2.parse" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\pgen2\parse.py")
+2017-06-28T07:07:20: Parsing "lib2to3.pgen2.pgen" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\pgen2\pgen.py")
+2017-06-28T07:07:20: Parsing "lib2to3.pgen2.token" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\pgen2\token.py")
+2017-06-28T07:07:20: Parsing "lib2to3.pgen2.tokenize" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\pgen2\tokenize.py")
+2017-06-28T07:07:20: Parsing "lib2to3.pgen2" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\lib2to3\pgen2\__init__.py")
+2017-06-28T07:07:20: Parsing "logging.config" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\logging\config.py")
+2017-06-28T07:07:20: Parsing "logging.handlers" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\logging\handlers.py")
+2017-06-28T07:07:20: Parsing "logging" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\logging\__init__.py")
+2017-06-28T07:07:20: Parsing "msilib.schema" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\msilib\schema.py")
+2017-06-28T07:07:20: Parsing "msilib.sequence" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\msilib\sequence.py")
+2017-06-28T07:07:20: Parsing "msilib.text" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\msilib\text.py")
+2017-06-28T07:07:20: Parsing "msilib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\msilib\__init__.py")
+2017-06-28T07:07:20: Parsing "multiprocessing.connection" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\connection.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.context" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\context.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.forkserver" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\forkserver.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.heap" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\heap.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.managers" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\managers.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.pool" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\pool.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.popen_fork" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\popen_fork.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.popen_forkserver" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\popen_forkserver.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.popen_spawn_posix" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\popen_spawn_posix.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.popen_spawn_win32" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\popen_spawn_win32.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.process" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\process.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.queues" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\queues.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.reduction" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\reduction.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.resource_sharer" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\resource_sharer.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.semaphore_tracker" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\semaphore_tracker.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.sharedctypes" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\sharedctypes.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.spawn" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\spawn.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.synchronize" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\synchronize.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.util" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\util.py")
+2017-06-28T07:07:21: Parsing "multiprocessing" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\__init__.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.dummy.connection" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\dummy\connection.py")
+2017-06-28T07:07:21: Parsing "multiprocessing.dummy" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\multiprocessing\dummy\__init__.py")
+2017-06-28T07:07:21: Parsing "pydoc_data.topics" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pydoc_data\topics.py")
+2017-06-28T07:07:25: Parsing "pydoc_data" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\pydoc_data\__init__.py")
+2017-06-28T07:07:25: Parsing "sqlite3.dbapi2" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\sqlite3\dbapi2.py")
+2017-06-28T07:07:25: Parsing "sqlite3.dump" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\sqlite3\dump.py")
+2017-06-28T07:07:25: Parsing "sqlite3" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\sqlite3\__init__.py")
+2017-06-28T07:07:25: Parsing "tkinter.colorchooser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\colorchooser.py")
+2017-06-28T07:07:25: Parsing "tkinter.commondialog" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\commondialog.py")
+2017-06-28T07:07:25: Parsing "tkinter.constants" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\constants.py")
+2017-06-28T07:07:25: Parsing "tkinter.dialog" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\dialog.py")
+2017-06-28T07:07:25: Parsing "tkinter.dnd" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\dnd.py")
+2017-06-28T07:07:25: Parsing "tkinter.filedialog" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\filedialog.py")
+2017-06-28T07:07:25: Parsing "tkinter.font" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\font.py")
+2017-06-28T07:07:26: Parsing "tkinter.messagebox" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\messagebox.py")
+2017-06-28T07:07:26: Parsing "tkinter.scrolledtext" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\scrolledtext.py")
+2017-06-28T07:07:26: Parsing "tkinter.simpledialog" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\simpledialog.py")
+2017-06-28T07:07:26: Parsing "tkinter.tix" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\tix.py")
+2017-06-28T07:07:26: Parsing "tkinter.ttk" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\ttk.py")
+2017-06-28T07:07:26: Parsing "tkinter" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\__init__.py")
+2017-06-28T07:07:26: Parsing "tkinter.__main__" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\tkinter\__main__.py")
+2017-06-28T07:07:26: Parsing "turtledemo.bytedesign" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\bytedesign.py")
+2017-06-28T07:07:26: Parsing "turtledemo.chaos" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\chaos.py")
+2017-06-28T07:07:26: Parsing "turtledemo.clock" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\clock.py")
+2017-06-28T07:07:26: Parsing "turtledemo.colormixer" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\colormixer.py")
+2017-06-28T07:07:26: Parsing "turtledemo.forest" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\forest.py")
+2017-06-28T07:07:26: Parsing "turtledemo.fractalcurves" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\fractalcurves.py")
+2017-06-28T07:07:26: Parsing "turtledemo.lindenmayer" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\lindenmayer.py")
+2017-06-28T07:07:26: Parsing "turtledemo.minimal_hanoi" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\minimal_hanoi.py")
+2017-06-28T07:07:26: Parsing "turtledemo.nim" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\nim.py")
+2017-06-28T07:07:27: Parsing "turtledemo.paint" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\paint.py")
+2017-06-28T07:07:27: Parsing "turtledemo.peace" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\peace.py")
+2017-06-28T07:07:27: Parsing "turtledemo.penrose" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\penrose.py")
+2017-06-28T07:07:27: Parsing "turtledemo.planet_and_moon" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\planet_and_moon.py")
+2017-06-28T07:07:27: Parsing "turtledemo.round_dance" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\round_dance.py")
+2017-06-28T07:07:27: Parsing "turtledemo.sorting_animate" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\sorting_animate.py")
+2017-06-28T07:07:27: Parsing "turtledemo.tree" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\tree.py")
+2017-06-28T07:07:27: Parsing "turtledemo.two_canvases" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\two_canvases.py")
+2017-06-28T07:07:27: Parsing "turtledemo.wikipedia" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\wikipedia.py")
+2017-06-28T07:07:27: Parsing "turtledemo.yinyang" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\yinyang.py")
+2017-06-28T07:07:27: Parsing "turtledemo" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\__init__.py")
+2017-06-28T07:07:27: Parsing "turtledemo.__main__" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\turtledemo\__main__.py")
+2017-06-28T07:07:27: Parsing "unittest.case" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\unittest\case.py")
+2017-06-28T07:07:27: Parsing "unittest.loader" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\unittest\loader.py")
+2017-06-28T07:07:27: Parsing "unittest.main" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\unittest\main.py")
+2017-06-28T07:07:27: Parsing "unittest.mock" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\unittest\mock.py")
+2017-06-28T07:07:27: Parsing "unittest.result" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\unittest\result.py")
+2017-06-28T07:07:27: Parsing "unittest.runner" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\unittest\runner.py")
+2017-06-28T07:07:27: Parsing "unittest.signals" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\unittest\signals.py")
+2017-06-28T07:07:27: Parsing "unittest.suite" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\unittest\suite.py")
+2017-06-28T07:07:27: Parsing "unittest.util" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\unittest\util.py")
+2017-06-28T07:07:27: Parsing "unittest" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\unittest\__init__.py")
+2017-06-28T07:07:27: Parsing "unittest.__main__" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\unittest\__main__.py")
+2017-06-28T07:07:27: Parsing "urllib.error" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\urllib\error.py")
+2017-06-28T07:07:27: Parsing "urllib.parse" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\urllib\parse.py")
+2017-06-28T07:07:27: Parsing "urllib.request" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\urllib\request.py")
+2017-06-28T07:07:27: Parsing "urllib.response" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\urllib\response.py")
+2017-06-28T07:07:27: Parsing "urllib.robotparser" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\urllib\robotparser.py")
+2017-06-28T07:07:28: Parsing "urllib" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\urllib\__init__.py")
+2017-06-28T07:07:28: Parsing "venv" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\venv\__init__.py")
+2017-06-28T07:07:28: Parsing "venv.__main__" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\venv\__main__.py")
+2017-06-28T07:07:28: Parsing "wsgiref.handlers" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\wsgiref\handlers.py")
+2017-06-28T07:07:28: Parsing "wsgiref.headers" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\wsgiref\headers.py")
+2017-06-28T07:07:28: Parsing "wsgiref.simple_server" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\wsgiref\simple_server.py")
+2017-06-28T07:07:28: Parsing "wsgiref.util" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\wsgiref\util.py")
+2017-06-28T07:07:28: Parsing "wsgiref.validate" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\wsgiref\validate.py")
+2017-06-28T07:07:28: Parsing "wsgiref" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\wsgiref\__init__.py")
+2017-06-28T07:07:28: Parsing "xml" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\__init__.py")
+2017-06-28T07:07:28: Parsing "xml.dom.domreg" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\dom\domreg.py")
+2017-06-28T07:07:28: Parsing "xml.dom.expatbuilder" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\dom\expatbuilder.py")
+2017-06-28T07:07:28: Parsing "xml.dom.minicompat" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\dom\minicompat.py")
+2017-06-28T07:07:28: Parsing "xml.dom.minidom" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\dom\minidom.py")
+2017-06-28T07:07:28: Parsing "xml.dom.NodeFilter" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\dom\NodeFilter.py")
+2017-06-28T07:07:28: Parsing "xml.dom.pulldom" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\dom\pulldom.py")
+2017-06-28T07:07:28: Parsing "xml.dom.xmlbuilder" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\dom\xmlbuilder.py")
+2017-06-28T07:07:28: Parsing "xml.dom" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\dom\__init__.py")
+2017-06-28T07:07:28: Parsing "xml.etree.cElementTree" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\etree\cElementTree.py")
+2017-06-28T07:07:28: Parsing "xml.etree.ElementInclude" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\etree\ElementInclude.py")
+2017-06-28T07:07:28: Parsing "xml.etree.ElementPath" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\etree\ElementPath.py")
+2017-06-28T07:07:28: Parsing "xml.etree.ElementTree" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\etree\ElementTree.py")
+2017-06-28T07:07:28: Parsing "xml.etree" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\etree\__init__.py")
+2017-06-28T07:07:28: Parsing "xml.parsers.expat" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\parsers\expat.py")
+2017-06-28T07:07:28: Parsing "xml.parsers" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\parsers\__init__.py")
+2017-06-28T07:07:28: Parsing "xml.sax.expatreader" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\sax\expatreader.py")
+2017-06-28T07:07:28: Parsing "xml.sax.handler" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\sax\handler.py")
+2017-06-28T07:07:28: Parsing "xml.sax.saxutils" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\sax\saxutils.py")
+2017-06-28T07:07:28: Parsing "xml.sax.xmlreader" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\sax\xmlreader.py")
+2017-06-28T07:07:28: Parsing "xml.sax._exceptions" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\sax\_exceptions.py")
+2017-06-28T07:07:28: Parsing "xml.sax" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xml\sax\__init__.py")
+2017-06-28T07:07:28: Parsing "xmlrpc.client" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xmlrpc\client.py")
+2017-06-28T07:07:29: Parsing "xmlrpc.server" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xmlrpc\server.py")
+2017-06-28T07:07:29: Parsing "xmlrpc" ("c:\users\gaurav\appdata\local\programs\python\python36-32\lib\xmlrpc\__init__.py")
+2017-06-28T07:07:29: Parsing "createfontdatachunk" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\createfontdatachunk.py")
+2017-06-28T07:07:29: Parsing "enhancer" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\enhancer.py")
+2017-06-28T07:07:29: Parsing "explode" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\explode.py")
+2017-06-28T07:07:29: Parsing "gifmaker" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\gifmaker.py")
+2017-06-28T07:07:29: Parsing "painter" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\painter.py")
+2017-06-28T07:07:29: Parsing "pilconvert" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\pilconvert.py")
+2017-06-28T07:07:29: Parsing "pildriver" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\pildriver.py")
+2017-06-28T07:07:29: Parsing "pilfile" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\pilfile.py")
+2017-06-28T07:07:29: Parsing "pilfont" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\pilfont.py")
+2017-06-28T07:07:29: Parsing "pilprint" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\pilprint.py")
+2017-06-28T07:07:29: Parsing "player" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\player.py")
+2017-06-28T07:07:29: Parsing "rst2html" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\rst2html.py")
+2017-06-28T07:07:29: Parsing "rst2html5" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\rst2html5.py")
+2017-06-28T07:07:29: Parsing "rst2latex" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\rst2latex.py")
+2017-06-28T07:07:29: Parsing "rst2man" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\rst2man.py")
+2017-06-28T07:07:29: Parsing "rst2odt" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\rst2odt.py")
+2017-06-28T07:07:29: Parsing "rst2odt_prepstyles" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\rst2odt_prepstyles.py")
+2017-06-28T07:07:29: Parsing "rst2pseudoxml" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\rst2pseudoxml.py")
+2017-06-28T07:07:29: Parsing "rst2s5" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\rst2s5.py")
+2017-06-28T07:07:29: Parsing "rst2xetex" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\rst2xetex.py")
+2017-06-28T07:07:29: Parsing "rst2xml" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\rst2xml.py")
+2017-06-28T07:07:29: Parsing "rstpep2html" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\rstpep2html.py")
+2017-06-28T07:07:29: Parsing "thresholder" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\thresholder.py")
+2017-06-28T07:07:29: Parsing "viewer" ("c:\users\gaurav\appdata\local\programs\python\python36-32\scripts\viewer.py")
+2017-06-28T07:07:29: Parsing "activate_this" ("c:\users\gaurav\documents\visual studio 2017\projects\escahub\escahub\env\scripts\activate_this.py")
+2017-06-28T07:07:29: Parsing complete
+2017-06-28T07:07:29: Analyzing "abc"
+2017-06-28T07:07:29: Analyzing "aifc"
+2017-06-28T07:07:30: Analyzing "antigravity"
+2017-06-28T07:07:30: Analyzing "argparse"
+2017-06-28T07:07:30: Analyzing "ast"
+2017-06-28T07:07:30: Analyzing "asynchat"
+2017-06-28T07:07:30: Analyzing "asyncore"
+2017-06-28T07:07:30: Analyzing "base64"
+2017-06-28T07:07:30: Analyzing "bdb"
+2017-06-28T07:07:30: Analyzing "binhex"
+2017-06-28T07:07:30: Analyzing "bisect"
+2017-06-28T07:07:30: Analyzing "bz2"
+2017-06-28T07:07:30: Analyzing "calendar"
+2017-06-28T07:07:30: Analyzing "cgi"
+2017-06-28T07:07:30: Analyzing "cgitb"
+2017-06-28T07:07:30: Analyzing "chunk"
+2017-06-28T07:07:30: Analyzing "cmd"
+2017-06-28T07:07:30: Analyzing "code"
+2017-06-28T07:07:30: Analyzing "codecs"
+2017-06-28T07:07:30: Analyzing "codeop"
+2017-06-28T07:07:30: Analyzing "colorsys"
+2017-06-28T07:07:30: Analyzing "compileall"
+2017-06-28T07:07:30: Analyzing "configparser"
+2017-06-28T07:07:30: Analyzing "contextlib"
+2017-06-28T07:07:30: Analyzing "copy"
+2017-06-28T07:07:30: Analyzing "copyreg"
+2017-06-28T07:07:30: Analyzing "cProfile"
+2017-06-28T07:07:30: Analyzing "crypt"
+2017-06-28T07:07:30: Analyzing "csv"
+2017-06-28T07:07:30: Analyzing "datetime"
+2017-06-28T07:07:30: Analyzing "decimal"
+2017-06-28T07:07:30: Analyzing "difflib"
+2017-06-28T07:07:30: Analyzing "dis"
+2017-06-28T07:07:30: Analyzing "doctest"
+2017-06-28T07:07:30: Analyzing "dummy_threading"
+2017-06-28T07:07:30: Analyzing "enum"
+2017-06-28T07:07:30: Analyzing "filecmp"
+2017-06-28T07:07:30: Analyzing "fileinput"
+2017-06-28T07:07:30: Analyzing "fnmatch"
+2017-06-28T07:07:30: Analyzing "formatter"
+2017-06-28T07:07:30: Analyzing "fractions"
+2017-06-28T07:07:30: Analyzing "ftplib"
+2017-06-28T07:07:30: Analyzing "functools"
+2017-06-28T07:07:30: Analyzing "genericpath"
+2017-06-28T07:07:30: Analyzing "getopt"
+2017-06-28T07:07:30: Analyzing "getpass"
+2017-06-28T07:07:30: Analyzing "gettext"
+2017-06-28T07:07:30: Analyzing "glob"
+2017-06-28T07:07:30: Analyzing "gzip"
+2017-06-28T07:07:30: Analyzing "hashlib"
+2017-06-28T07:07:30: Analyzing "heapq"
+2017-06-28T07:07:30: Analyzing "hmac"
+2017-06-28T07:07:30: Analyzing "imaplib"
+2017-06-28T07:07:30: Analyzing "imghdr"
+2017-06-28T07:07:30: Analyzing "imp"
+2017-06-28T07:07:30: Analyzing "inspect"
+2017-06-28T07:07:30: Analyzing "io"
+2017-06-28T07:07:30: Analyzing "ipaddress"
+2017-06-28T07:07:30: Analyzing "keyword"
+2017-06-28T07:07:30: Analyzing "linecache"
+2017-06-28T07:07:30: Analyzing "locale"
+2017-06-28T07:07:30: Analyzing "lzma"
+2017-06-28T07:07:30: Analyzing "macpath"
+2017-06-28T07:07:30: Analyzing "macurl2path"
+2017-06-28T07:07:30: Analyzing "mailbox"
+2017-06-28T07:07:30: Analyzing "mailcap"
+2017-06-28T07:07:30: Analyzing "mimetypes"
+2017-06-28T07:07:30: Analyzing "modulefinder"
+2017-06-28T07:07:30: Analyzing "netrc"
+2017-06-28T07:07:30: Analyzing "nntplib"
+2017-06-28T07:07:30: Analyzing "ntpath"
+2017-06-28T07:07:30: Analyzing "nturl2path"
+2017-06-28T07:07:30: Analyzing "numbers"
+2017-06-28T07:07:30: Analyzing "opcode"
+2017-06-28T07:07:30: Analyzing "operator"
+2017-06-28T07:07:30: Analyzing "optparse"
+2017-06-28T07:07:30: Analyzing "os"
+2017-06-28T07:07:30: Analyzing "pathlib"
+2017-06-28T07:07:30: Analyzing "pdb"
+2017-06-28T07:07:30: Analyzing "pickle"
+2017-06-28T07:07:30: Analyzing "pickletools"
+2017-06-28T07:07:30: Analyzing "pipes"
+2017-06-28T07:07:30: Analyzing "pkgutil"
+2017-06-28T07:07:30: Analyzing "platform"
+2017-06-28T07:07:30: Analyzing "plistlib"
+2017-06-28T07:07:30: Analyzing "poplib"
+2017-06-28T07:07:30: Analyzing "posixpath"
+2017-06-28T07:07:30: Analyzing "pprint"
+2017-06-28T07:07:30: Analyzing "profile"
+2017-06-28T07:07:30: Analyzing "pstats"
+2017-06-28T07:07:30: Analyzing "pty"
+2017-06-28T07:07:30: Analyzing "pyclbr"
+2017-06-28T07:07:30: Analyzing "pydoc"
+2017-06-28T07:07:30: Analyzing "py_compile"
+2017-06-28T07:07:30: Analyzing "queue"
+2017-06-28T07:07:30: Analyzing "quopri"
+2017-06-28T07:07:30: Analyzing "random"
+2017-06-28T07:07:30: Analyzing "re"
+2017-06-28T07:07:30: Analyzing "reprlib"
+2017-06-28T07:07:30: Analyzing "rlcompleter"
+2017-06-28T07:07:30: Analyzing "runpy"
+2017-06-28T07:07:31: Analyzing "sched"
+2017-06-28T07:07:31: Analyzing "secrets"
+2017-06-28T07:07:31: Analyzing "selectors"
+2017-06-28T07:07:31: Analyzing "shelve"
+2017-06-28T07:07:31: Analyzing "shlex"
+2017-06-28T07:07:31: Analyzing "shutil"
+2017-06-28T07:07:31: Analyzing "signal"
+2017-06-28T07:07:31: Analyzing "site"
+2017-06-28T07:07:31: Analyzing "smtpd"
+2017-06-28T07:07:31: Analyzing "smtplib"
+2017-06-28T07:07:31: Analyzing "sndhdr"
+2017-06-28T07:07:31: Analyzing "socket"
+2017-06-28T07:07:31: Analyzing "socketserver"
+2017-06-28T07:07:31: Analyzing "sre_compile"
+2017-06-28T07:07:31: Analyzing "sre_constants"
+2017-06-28T07:07:31: Analyzing "sre_parse"
+2017-06-28T07:07:31: Analyzing "ssl"
+2017-06-28T07:07:31: Analyzing "stat"
+2017-06-28T07:07:31: Analyzing "statistics"
+2017-06-28T07:07:31: Analyzing "string"
+2017-06-28T07:07:31: Analyzing "stringprep"
+2017-06-28T07:07:31: Analyzing "struct"
+2017-06-28T07:07:31: Analyzing "subprocess"
+2017-06-28T07:07:31: Analyzing "sunau"
+2017-06-28T07:07:31: Analyzing "symbol"
+2017-06-28T07:07:31: Analyzing "symtable"
+2017-06-28T07:07:31: Analyzing "sysconfig"
+2017-06-28T07:07:31: Analyzing "tabnanny"
+2017-06-28T07:07:31: Analyzing "tarfile"
+2017-06-28T07:07:31: Analyzing "telnetlib"
+2017-06-28T07:07:31: Analyzing "tempfile"
+2017-06-28T07:07:31: Analyzing "textwrap"
+2017-06-28T07:07:31: Analyzing "this"
+2017-06-28T07:07:31: Analyzing "threading"
+2017-06-28T07:07:31: Analyzing "timeit"
+2017-06-28T07:07:31: Analyzing "token"
+2017-06-28T07:07:31: Analyzing "tokenize"
+2017-06-28T07:07:31: Analyzing "trace"
+2017-06-28T07:07:31: Analyzing "traceback"
+2017-06-28T07:07:31: Analyzing "tracemalloc"
+2017-06-28T07:07:31: Analyzing "tty"
+2017-06-28T07:07:31: Analyzing "turtle"
+2017-06-28T07:07:31: Analyzing "types"
+2017-06-28T07:07:31: Analyzing "typing"
+2017-06-28T07:07:31: Analyzing "uu"
+2017-06-28T07:07:31: Analyzing "uuid"
+2017-06-28T07:07:31: Analyzing "warnings"
+2017-06-28T07:07:31: Analyzing "wave"
+2017-06-28T07:07:31: Analyzing "weakref"
+2017-06-28T07:07:31: Analyzing "webbrowser"
+2017-06-28T07:07:31: Analyzing "xdrlib"
+2017-06-28T07:07:31: Analyzing "zipapp"
+2017-06-28T07:07:31: Analyzing "zipfile"
+2017-06-28T07:07:31: Analyzing "_bootlocale"
+2017-06-28T07:07:31: Analyzing "_collections_abc"
+2017-06-28T07:07:31: Analyzing "_compat_pickle"
+2017-06-28T07:07:31: Analyzing "_compression"
+2017-06-28T07:07:31: Analyzing "_dummy_thread"
+2017-06-28T07:07:31: Analyzing "_markupbase"
+2017-06-28T07:07:31: Analyzing "_osx_support"
+2017-06-28T07:07:31: Analyzing "_pydecimal"
+2017-06-28T07:07:31: Analyzing "_pyio"
+2017-06-28T07:07:31: Analyzing "_sitebuiltins"
+2017-06-28T07:07:31: Analyzing "_strptime"
+2017-06-28T07:07:31: Analyzing "_threading_local"
+2017-06-28T07:07:31: Analyzing "_weakrefset"
+2017-06-28T07:07:31: Analyzing "__future__"
+2017-06-28T07:07:31: Analyzing "asyncio.base_events"
+2017-06-28T07:07:31: Analyzing "asyncio.base_futures"
+2017-06-28T07:07:31: Analyzing "asyncio.base_subprocess"
+2017-06-28T07:07:31: Analyzing "asyncio.base_tasks"
+2017-06-28T07:07:31: Analyzing "asyncio.compat"
+2017-06-28T07:07:31: Analyzing "asyncio.constants"
+2017-06-28T07:07:31: Analyzing "asyncio.coroutines"
+2017-06-28T07:07:31: Analyzing "asyncio.events"
+2017-06-28T07:07:31: Analyzing "asyncio.futures"
+2017-06-28T07:07:31: Analyzing "asyncio.locks"
+2017-06-28T07:07:31: Analyzing "asyncio.log"
+2017-06-28T07:07:31: Analyzing "asyncio.proactor_events"
+2017-06-28T07:07:31: Analyzing "asyncio.protocols"
+2017-06-28T07:07:31: Analyzing "asyncio.queues"
+2017-06-28T07:07:31: Analyzing "asyncio.selector_events"
+2017-06-28T07:07:31: Analyzing "asyncio.sslproto"
+2017-06-28T07:07:31: Analyzing "asyncio.streams"
+2017-06-28T07:07:31: Analyzing "asyncio.subprocess"
+2017-06-28T07:07:31: Analyzing "asyncio.tasks"
+2017-06-28T07:07:31: Analyzing "asyncio.test_utils"
+2017-06-28T07:07:31: Analyzing "asyncio.transports"
+2017-06-28T07:07:31: Analyzing "asyncio.unix_events"
+2017-06-28T07:07:31: Analyzing "asyncio.windows_events"
+2017-06-28T07:07:31: Analyzing "asyncio.windows_utils"
+2017-06-28T07:07:31: Analyzing "asyncio"
+2017-06-28T07:07:31: Analyzing "collections.abc"
+2017-06-28T07:07:31: Analyzing "collections"
+2017-06-28T07:07:31: Analyzing "concurrent"
+2017-06-28T07:07:31: Analyzing "concurrent.futures.process"
+2017-06-28T07:07:31: Analyzing "concurrent.futures.thread"
+2017-06-28T07:07:31: Analyzing "concurrent.futures._base"
+2017-06-28T07:07:31: Analyzing "concurrent.futures"
+2017-06-28T07:07:31: Analyzing "ctypes.util"
+2017-06-28T07:07:31: Analyzing "ctypes.wintypes"
+2017-06-28T07:07:31: Analyzing "ctypes._endian"
+2017-06-28T07:07:31: Analyzing "ctypes"
+2017-06-28T07:07:31: Analyzing "ctypes.macholib.dyld"
+2017-06-28T07:07:31: Analyzing "ctypes.macholib.dylib"
+2017-06-28T07:07:31: Analyzing "ctypes.macholib.framework"
+2017-06-28T07:07:31: Analyzing "ctypes.macholib"
+2017-06-28T07:07:31: Analyzing "curses.ascii"
+2017-06-28T07:07:31: Analyzing "curses.has_key"
+2017-06-28T07:07:31: Analyzing "curses.panel"
+2017-06-28T07:07:31: Analyzing "curses.textpad"
+2017-06-28T07:07:31: Analyzing "curses"
+2017-06-28T07:07:31: Analyzing "dbm.dumb"
+2017-06-28T07:07:31: Analyzing "dbm.gnu"
+2017-06-28T07:07:31: Analyzing "dbm.ndbm"
+2017-06-28T07:07:31: Analyzing "dbm"
+2017-06-28T07:07:31: Analyzing "distutils.archive_util"
+2017-06-28T07:07:31: Analyzing "distutils.bcppcompiler"
+2017-06-28T07:07:31: Analyzing "distutils.ccompiler"
+2017-06-28T07:07:31: Analyzing "distutils.cmd"
+2017-06-28T07:07:31: Analyzing "distutils.config"
+2017-06-28T07:07:31: Analyzing "distutils.core"
+2017-06-28T07:07:31: Analyzing "distutils.cygwinccompiler"
+2017-06-28T07:07:31: Analyzing "distutils.debug"
+2017-06-28T07:07:31: Analyzing "distutils.dep_util"
+2017-06-28T07:07:31: Analyzing "distutils.dir_util"
+2017-06-28T07:07:31: Analyzing "distutils.dist"
+2017-06-28T07:07:31: Analyzing "distutils.errors"
+2017-06-28T07:07:31: Analyzing "distutils.extension"
+2017-06-28T07:07:31: Analyzing "distutils.fancy_getopt"
+2017-06-28T07:07:31: Analyzing "distutils.filelist"
+2017-06-28T07:07:31: Analyzing "distutils.file_util"
+2017-06-28T07:07:31: Analyzing "distutils.log"
+2017-06-28T07:07:31: Analyzing "distutils.msvc9compiler"
+2017-06-28T07:07:31: Analyzing "distutils.msvccompiler"
+2017-06-28T07:07:31: Analyzing "distutils.spawn"
+2017-06-28T07:07:31: Analyzing "distutils.sysconfig"
+2017-06-28T07:07:31: Analyzing "distutils.text_file"
+2017-06-28T07:07:31: Analyzing "distutils.unixccompiler"
+2017-06-28T07:07:31: Analyzing "distutils.util"
+2017-06-28T07:07:31: Analyzing "distutils.version"
+2017-06-28T07:07:31: Analyzing "distutils.versionpredicate"
+2017-06-28T07:07:31: Analyzing "distutils._msvccompiler"
+2017-06-28T07:07:31: Analyzing "distutils"
+2017-06-28T07:07:31: Analyzing "distutils.command.bdist"
+2017-06-28T07:07:31: Analyzing "distutils.command.bdist_dumb"
+2017-06-28T07:07:31: Analyzing "distutils.command.bdist_msi"
+2017-06-28T07:07:31: Analyzing "distutils.command.bdist_rpm"
+2017-06-28T07:07:31: Analyzing "distutils.command.bdist_wininst"
+2017-06-28T07:07:31: Analyzing "distutils.command.build"
+2017-06-28T07:07:31: Analyzing "distutils.command.build_clib"
+2017-06-28T07:07:31: Analyzing "distutils.command.build_ext"
+2017-06-28T07:07:31: Analyzing "distutils.command.build_py"
+2017-06-28T07:07:31: Analyzing "distutils.command.build_scripts"
+2017-06-28T07:07:31: Analyzing "distutils.command.check"
+2017-06-28T07:07:31: Analyzing "distutils.command.clean"
+2017-06-28T07:07:31: Analyzing "distutils.command.config"
+2017-06-28T07:07:31: Analyzing "distutils.command.install"
+2017-06-28T07:07:31: Analyzing "distutils.command.install_data"
+2017-06-28T07:07:31: Analyzing "distutils.command.install_egg_info"
+2017-06-28T07:07:31: Analyzing "distutils.command.install_headers"
+2017-06-28T07:07:31: Analyzing "distutils.command.install_lib"
+2017-06-28T07:07:31: Analyzing "distutils.command.install_scripts"
+2017-06-28T07:07:31: Analyzing "distutils.command.register"
+2017-06-28T07:07:31: Analyzing "distutils.command.sdist"
+2017-06-28T07:07:31: Analyzing "distutils.command.upload"
+2017-06-28T07:07:31: Analyzing "distutils.command"
+2017-06-28T07:07:31: Analyzing "email.base64mime"
+2017-06-28T07:07:31: Analyzing "email.charset"
+2017-06-28T07:07:31: Analyzing "email.contentmanager"
+2017-06-28T07:07:31: Analyzing "email.encoders"
+2017-06-28T07:07:31: Analyzing "email.errors"
+2017-06-28T07:07:31: Analyzing "email.feedparser"
+2017-06-28T07:07:31: Analyzing "email.generator"
+2017-06-28T07:07:31: Analyzing "email.header"
+2017-06-28T07:07:31: Analyzing "email.headerregistry"
+2017-06-28T07:07:31: Analyzing "email.iterators"
+2017-06-28T07:07:31: Analyzing "email.message"
+2017-06-28T07:07:31: Analyzing "email.parser"
+2017-06-28T07:07:31: Analyzing "email.policy"
+2017-06-28T07:07:31: Analyzing "email.quoprimime"
+2017-06-28T07:07:31: Analyzing "email.utils"
+2017-06-28T07:07:31: Analyzing "email._encoded_words"
+2017-06-28T07:07:31: Analyzing "email._header_value_parser"
+2017-06-28T07:07:31: Analyzing "email._parseaddr"
+2017-06-28T07:07:31: Analyzing "email._policybase"
+2017-06-28T07:07:31: Analyzing "email"
+2017-06-28T07:07:31: Analyzing "email.mime.application"
+2017-06-28T07:07:31: Analyzing "email.mime.audio"
+2017-06-28T07:07:31: Analyzing "email.mime.base"
+2017-06-28T07:07:31: Analyzing "email.mime.image"
+2017-06-28T07:07:31: Analyzing "email.mime.message"
+2017-06-28T07:07:31: Analyzing "email.mime.multipart"
+2017-06-28T07:07:31: Analyzing "email.mime.nonmultipart"
+2017-06-28T07:07:31: Analyzing "email.mime.text"
+2017-06-28T07:07:31: Analyzing "email.mime"
+2017-06-28T07:07:31: Analyzing "encodings.aliases"
+2017-06-28T07:07:31: Analyzing "encodings.ascii"
+2017-06-28T07:07:31: Analyzing "encodings.base64_codec"
+2017-06-28T07:07:31: Analyzing "encodings.big5"
+2017-06-28T07:07:31: Analyzing "encodings.big5hkscs"
+2017-06-28T07:07:31: Analyzing "encodings.bz2_codec"
+2017-06-28T07:07:31: Analyzing "encodings.charmap"
+2017-06-28T07:07:31: Analyzing "encodings.cp037"
+2017-06-28T07:07:31: Analyzing "encodings.cp1006"
+2017-06-28T07:07:31: Analyzing "encodings.cp1026"
+2017-06-28T07:07:31: Analyzing "encodings.cp1125"
+2017-06-28T07:07:31: Analyzing "encodings.cp1140"
+2017-06-28T07:07:31: Analyzing "encodings.cp1250"
+2017-06-28T07:07:31: Analyzing "encodings.cp1251"
+2017-06-28T07:07:31: Analyzing "encodings.cp1252"
+2017-06-28T07:07:31: Analyzing "encodings.cp1253"
+2017-06-28T07:07:31: Analyzing "encodings.cp1254"
+2017-06-28T07:07:31: Analyzing "encodings.cp1255"
+2017-06-28T07:07:31: Analyzing "encodings.cp1256"
+2017-06-28T07:07:31: Analyzing "encodings.cp1257"
+2017-06-28T07:07:31: Analyzing "encodings.cp1258"
+2017-06-28T07:07:31: Analyzing "encodings.cp273"
+2017-06-28T07:07:31: Analyzing "encodings.cp424"
+2017-06-28T07:07:31: Analyzing "encodings.cp437"
+2017-06-28T07:07:31: Analyzing "encodings.cp500"
+2017-06-28T07:07:31: Analyzing "encodings.cp65001"
+2017-06-28T07:07:31: Analyzing "encodings.cp720"
+2017-06-28T07:07:31: Analyzing "encodings.cp737"
+2017-06-28T07:07:31: Analyzing "encodings.cp775"
+2017-06-28T07:07:31: Analyzing "encodings.cp850"
+2017-06-28T07:07:31: Analyzing "encodings.cp852"
+2017-06-28T07:07:31: Analyzing "encodings.cp855"
+2017-06-28T07:07:31: Analyzing "encodings.cp856"
+2017-06-28T07:07:31: Analyzing "encodings.cp857"
+2017-06-28T07:07:31: Analyzing "encodings.cp858"
+2017-06-28T07:07:31: Analyzing "encodings.cp860"
+2017-06-28T07:07:31: Analyzing "encodings.cp861"
+2017-06-28T07:07:31: Analyzing "encodings.cp862"
+2017-06-28T07:07:31: Analyzing "encodings.cp863"
+2017-06-28T07:07:31: Analyzing "encodings.cp864"
+2017-06-28T07:07:31: Analyzing "encodings.cp865"
+2017-06-28T07:07:31: Analyzing "encodings.cp866"
+2017-06-28T07:07:31: Analyzing "encodings.cp869"
+2017-06-28T07:07:31: Analyzing "encodings.cp874"
+2017-06-28T07:07:31: Analyzing "encodings.cp875"
+2017-06-28T07:07:31: Analyzing "encodings.cp932"
+2017-06-28T07:07:31: Analyzing "encodings.cp949"
+2017-06-28T07:07:31: Analyzing "encodings.cp950"
+2017-06-28T07:07:31: Analyzing "encodings.euc_jisx0213"
+2017-06-28T07:07:31: Analyzing "encodings.euc_jis_2004"
+2017-06-28T07:07:31: Analyzing "encodings.euc_jp"
+2017-06-28T07:07:31: Analyzing "encodings.euc_kr"
+2017-06-28T07:07:31: Analyzing "encodings.gb18030"
+2017-06-28T07:07:31: Analyzing "encodings.gb2312"
+2017-06-28T07:07:31: Analyzing "encodings.gbk"
+2017-06-28T07:07:31: Analyzing "encodings.hex_codec"
+2017-06-28T07:07:31: Analyzing "encodings.hp_roman8"
+2017-06-28T07:07:31: Analyzing "encodings.hz"
+2017-06-28T07:07:31: Analyzing "encodings.idna"
+2017-06-28T07:07:31: Analyzing "encodings.iso2022_jp"
+2017-06-28T07:07:31: Analyzing "encodings.iso2022_jp_1"
+2017-06-28T07:07:31: Analyzing "encodings.iso2022_jp_2"
+2017-06-28T07:07:31: Analyzing "encodings.iso2022_jp_2004"
+2017-06-28T07:07:31: Analyzing "encodings.iso2022_jp_3"
+2017-06-28T07:07:31: Analyzing "encodings.iso2022_jp_ext"
+2017-06-28T07:07:31: Analyzing "encodings.iso2022_kr"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_1"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_10"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_11"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_13"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_14"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_15"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_16"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_2"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_3"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_4"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_5"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_6"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_7"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_8"
+2017-06-28T07:07:31: Analyzing "encodings.iso8859_9"
+2017-06-28T07:07:31: Analyzing "encodings.johab"
+2017-06-28T07:07:31: Analyzing "encodings.koi8_r"
+2017-06-28T07:07:31: Analyzing "encodings.koi8_t"
+2017-06-28T07:07:31: Analyzing "encodings.koi8_u"
+2017-06-28T07:07:31: Analyzing "encodings.kz1048"
+2017-06-28T07:07:31: Analyzing "encodings.latin_1"
+2017-06-28T07:07:31: Analyzing "encodings.mac_arabic"
+2017-06-28T07:07:31: Analyzing "encodings.mac_centeuro"
+2017-06-28T07:07:31: Analyzing "encodings.mac_croatian"
+2017-06-28T07:07:31: Analyzing "encodings.mac_cyrillic"
+2017-06-28T07:07:31: Analyzing "encodings.mac_farsi"
+2017-06-28T07:07:31: Analyzing "encodings.mac_greek"
+2017-06-28T07:07:31: Analyzing "encodings.mac_iceland"
+2017-06-28T07:07:31: Analyzing "encodings.mac_latin2"
+2017-06-28T07:07:31: Analyzing "encodings.mac_roman"
+2017-06-28T07:07:31: Analyzing "encodings.mac_romanian"
+2017-06-28T07:07:31: Analyzing "encodings.mac_turkish"
+2017-06-28T07:07:31: Analyzing "encodings.mbcs"
+2017-06-28T07:07:31: Analyzing "encodings.oem"
+2017-06-28T07:07:31: Analyzing "encodings.palmos"
+2017-06-28T07:07:31: Analyzing "encodings.ptcp154"
+2017-06-28T07:07:31: Analyzing "encodings.punycode"
+2017-06-28T07:07:31: Analyzing "encodings.quopri_codec"
+2017-06-28T07:07:31: Analyzing "encodings.raw_unicode_escape"
+2017-06-28T07:07:31: Analyzing "encodings.rot_13"
+2017-06-28T07:07:31: Analyzing "encodings.shift_jis"
+2017-06-28T07:07:31: Analyzing "encodings.shift_jisx0213"
+2017-06-28T07:07:31: Analyzing "encodings.shift_jis_2004"
+2017-06-28T07:07:31: Analyzing "encodings.tis_620"
+2017-06-28T07:07:31: Analyzing "encodings.undefined"
+2017-06-28T07:07:31: Analyzing "encodings.unicode_escape"
+2017-06-28T07:07:31: Analyzing "encodings.unicode_internal"
+2017-06-28T07:07:31: Analyzing "encodings.utf_16"
+2017-06-28T07:07:31: Analyzing "encodings.utf_16_be"
+2017-06-28T07:07:31: Analyzing "encodings.utf_16_le"
+2017-06-28T07:07:31: Analyzing "encodings.utf_32"
+2017-06-28T07:07:31: Analyzing "encodings.utf_32_be"
+2017-06-28T07:07:31: Analyzing "encodings.utf_32_le"
+2017-06-28T07:07:31: Analyzing "encodings.utf_7"
+2017-06-28T07:07:31: Analyzing "encodings.utf_8"
+2017-06-28T07:07:31: Analyzing "encodings.utf_8_sig"
+2017-06-28T07:07:31: Analyzing "encodings.uu_codec"
+2017-06-28T07:07:31: Analyzing "encodings.zlib_codec"
+2017-06-28T07:07:31: Analyzing "encodings"
+2017-06-28T07:07:32: Analyzing "ensurepip._uninstall"
+2017-06-28T07:07:32: Analyzing "ensurepip"
+2017-06-28T07:07:32: Analyzing "ensurepip.__main__"
+2017-06-28T07:07:32: Analyzing "html.entities"
+2017-06-28T07:07:32: Analyzing "html.parser"
+2017-06-28T07:07:32: Analyzing "html"
+2017-06-28T07:07:32: Analyzing "http.client"
+2017-06-28T07:07:32: Analyzing "http.cookiejar"
+2017-06-28T07:07:32: Analyzing "http.cookies"
+2017-06-28T07:07:32: Analyzing "http.server"
+2017-06-28T07:07:32: Analyzing "http"
+2017-06-28T07:07:32: Analyzing "idlelib.autocomplete"
+2017-06-28T07:07:32: Analyzing "idlelib.autocomplete_w"
+2017-06-28T07:07:32: Analyzing "idlelib.autoexpand"
+2017-06-28T07:07:32: Analyzing "idlelib.browser"
+2017-06-28T07:07:32: Analyzing "idlelib.calltips"
+2017-06-28T07:07:32: Analyzing "idlelib.calltip_w"
+2017-06-28T07:07:32: Analyzing "idlelib.codecontext"
+2017-06-28T07:07:32: Analyzing "idlelib.colorizer"
+2017-06-28T07:07:32: Analyzing "idlelib.config"
+2017-06-28T07:07:32: Analyzing "idlelib.configdialog"
+2017-06-28T07:07:32: Analyzing "idlelib.config_key"
+2017-06-28T07:07:32: Analyzing "idlelib.debugger"
+2017-06-28T07:07:32: Analyzing "idlelib.debugger_r"
+2017-06-28T07:07:32: Analyzing "idlelib.debugobj"
+2017-06-28T07:07:32: Analyzing "idlelib.debugobj_r"
+2017-06-28T07:07:32: Analyzing "idlelib.delegator"
+2017-06-28T07:07:32: Analyzing "idlelib.dynoption"
+2017-06-28T07:07:32: Analyzing "idlelib.editor"
+2017-06-28T07:07:32: Analyzing "idlelib.filelist"
+2017-06-28T07:07:32: Analyzing "idlelib.grep"
+2017-06-28T07:07:32: Analyzing "idlelib.help"
+2017-06-28T07:07:32: Analyzing "idlelib.help_about"
+2017-06-28T07:07:32: Analyzing "idlelib.history"
+2017-06-28T07:07:32: Analyzing "idlelib.hyperparser"
+2017-06-28T07:07:32: Analyzing "idlelib.idle"
+2017-06-28T07:07:32: Analyzing "idlelib.iomenu"
+2017-06-28T07:07:32: Analyzing "idlelib.macosx"
+2017-06-28T07:07:32: Analyzing "idlelib.mainmenu"
+2017-06-28T07:07:32: Analyzing "idlelib.multicall"
+2017-06-28T07:07:32: Analyzing "idlelib.outwin"
+2017-06-28T07:07:32: Analyzing "idlelib.paragraph"
+2017-06-28T07:07:32: Analyzing "idlelib.parenmatch"
+2017-06-28T07:07:32: Analyzing "idlelib.pathbrowser"
+2017-06-28T07:07:32: Analyzing "idlelib.percolator"
+2017-06-28T07:07:32: Analyzing "idlelib.pyparse"
+2017-06-28T07:07:32: Analyzing "idlelib.pyshell"
+2017-06-28T07:07:32: Analyzing "idlelib.query"
+2017-06-28T07:07:32: Analyzing "idlelib.redirector"
+2017-06-28T07:07:32: Analyzing "idlelib.replace"
+2017-06-28T07:07:32: Analyzing "idlelib.rpc"
+2017-06-28T07:07:32: Analyzing "idlelib.rstrip"
+2017-06-28T07:07:32: Analyzing "idlelib.run"
+2017-06-28T07:07:32: Analyzing "idlelib.runscript"
+2017-06-28T07:07:32: Analyzing "idlelib.scrolledlist"
+2017-06-28T07:07:32: Analyzing "idlelib.search"
+2017-06-28T07:07:32: Analyzing "idlelib.searchbase"
+2017-06-28T07:07:32: Analyzing "idlelib.searchengine"
+2017-06-28T07:07:32: Analyzing "idlelib.stackviewer"
+2017-06-28T07:07:32: Analyzing "idlelib.statusbar"
+2017-06-28T07:07:32: Analyzing "idlelib.tabbedpages"
+2017-06-28T07:07:32: Analyzing "idlelib.textview"
+2017-06-28T07:07:32: Analyzing "idlelib.tooltip"
+2017-06-28T07:07:32: Analyzing "idlelib.tree"
+2017-06-28T07:07:32: Analyzing "idlelib.undo"
+2017-06-28T07:07:32: Analyzing "idlelib.windows"
+2017-06-28T07:07:32: Analyzing "idlelib.zoomheight"
+2017-06-28T07:07:32: Analyzing "idlelib"
+2017-06-28T07:07:32: Analyzing "idlelib.__main__"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.htest"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.mock_idle"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.mock_tk"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_autocomplete"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_autoexpand"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_calltips"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_colorizer"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_config"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_configdialog"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_config_key"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_debugger"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_delegator"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_editmenu"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_editor"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_grep"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_help"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_help_about"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_history"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_hyperparser"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_iomenu"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_macosx"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_paragraph"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_parenmatch"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_pathbrowser"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_percolator"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_query"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_redirector"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_replace"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_rstrip"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_scrolledlist"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_search"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_searchbase"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_searchengine"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_text"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_textview"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_tree"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_undo"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test.test_warning"
+2017-06-28T07:07:32: Analyzing "idlelib.idle_test"
+2017-06-28T07:07:32: Analyzing "importlib.abc"
+2017-06-28T07:07:32: Analyzing "importlib.machinery"
+2017-06-28T07:07:32: Analyzing "importlib.util"
+2017-06-28T07:07:32: Analyzing "importlib._bootstrap"
+2017-06-28T07:07:32: Analyzing "importlib._bootstrap_external"
+2017-06-28T07:07:32: Analyzing "importlib"
+2017-06-28T07:07:32: Analyzing "json.decoder"
+2017-06-28T07:07:32: Analyzing "json.encoder"
+2017-06-28T07:07:32: Analyzing "json.scanner"
+2017-06-28T07:07:32: Analyzing "json.tool"
+2017-06-28T07:07:32: Analyzing "json"
+2017-06-28T07:07:32: Analyzing "lib2to3.btm_matcher"
+2017-06-28T07:07:32: Analyzing "lib2to3.btm_utils"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixer_base"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixer_util"
+2017-06-28T07:07:32: Analyzing "lib2to3.main"
+2017-06-28T07:07:32: Analyzing "lib2to3.patcomp"
+2017-06-28T07:07:32: Analyzing "lib2to3.pygram"
+2017-06-28T07:07:32: Analyzing "lib2to3.pytree"
+2017-06-28T07:07:32: Analyzing "lib2to3.refactor"
+2017-06-28T07:07:32: Analyzing "lib2to3"
+2017-06-28T07:07:32: Analyzing "lib2to3.__main__"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_apply"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_asserts"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_basestring"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_buffer"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_dict"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_except"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_exec"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_execfile"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_exitfunc"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_filter"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_funcattrs"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_future"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_getcwdu"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_has_key"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_idioms"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_import"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_imports"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_imports2"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_input"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_intern"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_isinstance"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_itertools"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_itertools_imports"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_long"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_map"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_metaclass"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_methodattrs"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_ne"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_next"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_nonzero"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_numliterals"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_operator"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_paren"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_print"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_raise"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_raw_input"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_reduce"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_reload"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_renames"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_repr"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_set_literal"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_standarderror"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_sys_exc"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_throw"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_tuple_params"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_types"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_unicode"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_urllib"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_ws_comma"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_xrange"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_xreadlines"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes.fix_zip"
+2017-06-28T07:07:32: Analyzing "lib2to3.fixes"
+2017-06-28T07:07:33: Analyzing "lib2to3.pgen2.conv"
+2017-06-28T07:07:33: Analyzing "lib2to3.pgen2.driver"
+2017-06-28T07:07:33: Analyzing "lib2to3.pgen2.grammar"
+2017-06-28T07:07:33: Analyzing "lib2to3.pgen2.literals"
+2017-06-28T07:07:33: Analyzing "lib2to3.pgen2.parse"
+2017-06-28T07:07:33: Analyzing "lib2to3.pgen2.pgen"
+2017-06-28T07:07:33: Analyzing "lib2to3.pgen2.token"
+2017-06-28T07:07:33: Analyzing "lib2to3.pgen2.tokenize"
+2017-06-28T07:07:33: Analyzing "lib2to3.pgen2"
+2017-06-28T07:07:33: Analyzing "logging.config"
+2017-06-28T07:07:33: Analyzing "logging.handlers"
+2017-06-28T07:07:33: Analyzing "logging"
+2017-06-28T07:07:33: Analyzing "msilib.schema"
+2017-06-28T07:07:33: Analyzing "msilib.sequence"
+2017-06-28T07:07:33: Analyzing "msilib.text"
+2017-06-28T07:07:33: Analyzing "msilib"
+2017-06-28T07:07:33: Analyzing "multiprocessing.connection"
+2017-06-28T07:07:33: Analyzing "multiprocessing.context"
+2017-06-28T07:07:33: Analyzing "multiprocessing.forkserver"
+2017-06-28T07:07:33: Analyzing "multiprocessing.heap"
+2017-06-28T07:07:33: Analyzing "multiprocessing.managers"
+2017-06-28T07:07:33: Analyzing "multiprocessing.pool"
+2017-06-28T07:07:33: Analyzing "multiprocessing.popen_fork"
+2017-06-28T07:07:33: Analyzing "multiprocessing.popen_forkserver"
+2017-06-28T07:07:33: Analyzing "multiprocessing.popen_spawn_posix"
+2017-06-28T07:07:33: Analyzing "multiprocessing.popen_spawn_win32"
+2017-06-28T07:07:33: Analyzing "multiprocessing.process"
+2017-06-28T07:07:33: Analyzing "multiprocessing.queues"
+2017-06-28T07:07:33: Analyzing "multiprocessing.reduction"
+2017-06-28T07:07:33: Analyzing "multiprocessing.resource_sharer"
+2017-06-28T07:07:33: Analyzing "multiprocessing.semaphore_tracker"
+2017-06-28T07:07:33: Analyzing "multiprocessing.sharedctypes"
+2017-06-28T07:07:33: Analyzing "multiprocessing.spawn"
+2017-06-28T07:07:33: Analyzing "multiprocessing.synchronize"
+2017-06-28T07:07:33: Analyzing "multiprocessing.util"
+2017-06-28T07:07:33: Analyzing "multiprocessing"
+2017-06-28T07:07:33: Analyzing "multiprocessing.dummy.connection"
+2017-06-28T07:07:33: Analyzing "multiprocessing.dummy"
+2017-06-28T07:07:33: Analyzing "pydoc_data.topics"
+2017-06-28T07:07:33: Analyzing "pydoc_data"
+2017-06-28T07:07:33: Analyzing "sqlite3.dbapi2"
+2017-06-28T07:07:33: Analyzing "sqlite3.dump"
+2017-06-28T07:07:33: Analyzing "sqlite3"
+2017-06-28T07:07:33: Analyzing "tkinter.colorchooser"
+2017-06-28T07:07:33: Analyzing "tkinter.commondialog"
+2017-06-28T07:07:33: Analyzing "tkinter.constants"
+2017-06-28T07:07:33: Analyzing "tkinter.dialog"
+2017-06-28T07:07:33: Analyzing "tkinter.dnd"
+2017-06-28T07:07:33: Analyzing "tkinter.filedialog"
+2017-06-28T07:07:33: Analyzing "tkinter.font"
+2017-06-28T07:07:33: Analyzing "tkinter.messagebox"
+2017-06-28T07:07:33: Analyzing "tkinter.scrolledtext"
+2017-06-28T07:07:33: Analyzing "tkinter.simpledialog"
+2017-06-28T07:07:33: Analyzing "tkinter.tix"
+2017-06-28T07:07:33: Analyzing "tkinter.ttk"
+2017-06-28T07:07:33: Analyzing "tkinter"
+2017-06-28T07:07:33: Analyzing "tkinter.__main__"
+2017-06-28T07:07:33: Analyzing "turtledemo.bytedesign"
+2017-06-28T07:07:33: Analyzing "turtledemo.chaos"
+2017-06-28T07:07:33: Analyzing "turtledemo.clock"
+2017-06-28T07:07:33: Analyzing "turtledemo.colormixer"
+2017-06-28T07:07:33: Analyzing "turtledemo.forest"
+2017-06-28T07:07:33: Analyzing "turtledemo.fractalcurves"
+2017-06-28T07:07:33: Analyzing "turtledemo.lindenmayer"
+2017-06-28T07:07:33: Analyzing "turtledemo.minimal_hanoi"
+2017-06-28T07:07:33: Analyzing "turtledemo.nim"
+2017-06-28T07:07:33: Analyzing "turtledemo.paint"
+2017-06-28T07:07:33: Analyzing "turtledemo.peace"
+2017-06-28T07:07:33: Analyzing "turtledemo.penrose"
+2017-06-28T07:07:33: Analyzing "turtledemo.planet_and_moon"
+2017-06-28T07:07:33: Analyzing "turtledemo.round_dance"
+2017-06-28T07:07:33: Analyzing "turtledemo.sorting_animate"
+2017-06-28T07:07:33: Analyzing "turtledemo.tree"
+2017-06-28T07:07:33: Analyzing "turtledemo.two_canvases"
+2017-06-28T07:07:33: Analyzing "turtledemo.wikipedia"
+2017-06-28T07:07:33: Analyzing "turtledemo.yinyang"
+2017-06-28T07:07:33: Analyzing "turtledemo"
+2017-06-28T07:07:33: Analyzing "turtledemo.__main__"
+2017-06-28T07:07:33: Analyzing "unittest.case"
+2017-06-28T07:07:33: Analyzing "unittest.loader"
+2017-06-28T07:07:33: Analyzing "unittest.main"
+2017-06-28T07:07:33: Analyzing "unittest.mock"
+2017-06-28T07:07:33: Analyzing "unittest.result"
+2017-06-28T07:07:33: Analyzing "unittest.runner"
+2017-06-28T07:07:33: Analyzing "unittest.signals"
+2017-06-28T07:07:33: Analyzing "unittest.suite"
+2017-06-28T07:07:33: Analyzing "unittest.util"
+2017-06-28T07:07:33: Analyzing "unittest"
+2017-06-28T07:07:33: Analyzing "unittest.__main__"
+2017-06-28T07:07:33: Analyzing "urllib.error"
+2017-06-28T07:07:33: Analyzing "urllib.parse"
+2017-06-28T07:07:33: Analyzing "urllib.request"
+2017-06-28T07:07:33: Analyzing "urllib.response"
+2017-06-28T07:07:33: Analyzing "urllib.robotparser"
+2017-06-28T07:07:33: Analyzing "urllib"
+2017-06-28T07:07:33: Analyzing "venv"
+2017-06-28T07:07:33: Analyzing "venv.__main__"
+2017-06-28T07:07:33: Analyzing "wsgiref.handlers"
+2017-06-28T07:07:33: Analyzing "wsgiref.headers"
+2017-06-28T07:07:33: Analyzing "wsgiref.simple_server"
+2017-06-28T07:07:33: Analyzing "wsgiref.util"
+2017-06-28T07:07:33: Analyzing "wsgiref.validate"
+2017-06-28T07:07:33: Analyzing "wsgiref"
+2017-06-28T07:07:33: Analyzing "xml"
+2017-06-28T07:07:33: Analyzing "xml.dom.domreg"
+2017-06-28T07:07:33: Analyzing "xml.dom.expatbuilder"
+2017-06-28T07:07:33: Analyzing "xml.dom.minicompat"
+2017-06-28T07:07:33: Analyzing "xml.dom.minidom"
+2017-06-28T07:07:33: Analyzing "xml.dom.NodeFilter"
+2017-06-28T07:07:33: Analyzing "xml.dom.pulldom"
+2017-06-28T07:07:33: Analyzing "xml.dom.xmlbuilder"
+2017-06-28T07:07:33: Analyzing "xml.dom"
+2017-06-28T07:07:33: Analyzing "xml.etree.cElementTree"
+2017-06-28T07:07:33: Analyzing "xml.etree.ElementInclude"
+2017-06-28T07:07:33: Analyzing "xml.etree.ElementPath"
+2017-06-28T07:07:33: Analyzing "xml.etree.ElementTree"
+2017-06-28T07:07:33: Analyzing "xml.etree"
+2017-06-28T07:07:33: Analyzing "xml.parsers.expat"
+2017-06-28T07:07:33: Analyzing "xml.parsers"
+2017-06-28T07:07:33: Analyzing "xml.sax.expatreader"
+2017-06-28T07:07:33: Analyzing "xml.sax.handler"
+2017-06-28T07:07:33: Analyzing "xml.sax.saxutils"
+2017-06-28T07:07:33: Analyzing "xml.sax.xmlreader"
+2017-06-28T07:07:33: Analyzing "xml.sax._exceptions"
+2017-06-28T07:07:33: Analyzing "xml.sax"
+2017-06-28T07:07:33: Analyzing "xmlrpc.client"
+2017-06-28T07:07:33: Analyzing "xmlrpc.server"
+2017-06-28T07:07:33: Analyzing "xmlrpc"
+2017-06-28T07:07:33: Analyzing "createfontdatachunk"
+2017-06-28T07:07:33: Analyzing "enhancer"
+2017-06-28T07:07:33: Analyzing "explode"
+2017-06-28T07:07:33: Analyzing "gifmaker"
+2017-06-28T07:07:33: Analyzing "painter"
+2017-06-28T07:07:33: Analyzing "pilconvert"
+2017-06-28T07:07:33: Analyzing "pildriver"
+2017-06-28T07:07:33: Analyzing "pilfile"
+2017-06-28T07:07:33: Analyzing "pilfont"
+2017-06-28T07:07:33: Analyzing "pilprint"
+2017-06-28T07:07:33: Analyzing "player"
+2017-06-28T07:07:33: Analyzing "rst2html"
+2017-06-28T07:07:33: Analyzing "rst2html5"
+2017-06-28T07:07:33: Analyzing "rst2latex"
+2017-06-28T07:07:33: Analyzing "rst2man"
+2017-06-28T07:07:33: Analyzing "rst2odt"
+2017-06-28T07:07:33: Analyzing "rst2odt_prepstyles"
+2017-06-28T07:07:33: Analyzing "rst2pseudoxml"
+2017-06-28T07:07:33: Analyzing "rst2s5"
+2017-06-28T07:07:33: Analyzing "rst2xetex"
+2017-06-28T07:07:33: Analyzing "rst2xml"
+2017-06-28T07:07:33: Analyzing "rstpep2html"
+2017-06-28T07:07:33: Analyzing "thresholder"
+2017-06-28T07:07:33: Analyzing "viewer"
+2017-06-28T07:07:33: Analyzing "activate_this"
+2017-06-28T07:07:33: Starting analysis of 758 modules
+
+2017-06-29T07:09:43: Start analysis
+2017-06-29T07:09:45: IncludeModulesFromModulePath = win32com
+
+2017-06-29T17:29:15: Start analysis
+2017-06-29T17:29:20: IncludeModulesFromModulePath = win32com
+
+2017-06-30T09:35:19: Start analysis
+2017-06-30T09:35:26: IncludeModulesFromModulePath = win32com
+
+2017-06-30T09:53:21: Start analysis
+2017-06-30T09:53:21: IncludeModulesFromModulePath = win32com
+
+2017-07-01T19:05:34: Start analysis
+2017-07-01T19:05:35: IncludeModulesFromModulePath = win32com

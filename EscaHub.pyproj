@@ -1,0 +1,207 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <Name>EscaHub</Name>
+    <RootNamespace>EscaHub</RootNamespace>
+    <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>2d028db0-59af-48c3-9092-fdbebe6df8c0</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <ProjectTypeGuids>{5F0BE9CA-D677-4A4D-8806-6076C0FAAD37};{349c5851-65df-11da-9384-00065b846f21};{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <StartupFile>manage.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <LaunchProvider>Django launcher</LaunchProvider>
+    <DjangoSettingsModule>EscaHub.settings</DjangoSettingsModule>
+    <WebBrowserUrl>http://localhost</WebBrowserUrl>
+    <OutputPath>.</OutputPath>
+    <SuppressCollectPythonCloudServiceFiles>true</SuppressCollectPythonCloudServiceFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="EscaHub\activities\admin.py" />
+    <Compile Include="EscaHub\activities\apps.py" />
+    <Compile Include="EscaHub\activities\migrations\__init__.py" />
+    <Compile Include="EscaHub\activities\models.py" />
+    <Compile Include="EscaHub\activities\tests.py" />
+    <Compile Include="EscaHub\activities\views.py" />
+    <Compile Include="EscaHub\activities\__init__.py" />
+    <Compile Include="EscaHub\authentication\admin.py" />
+    <Compile Include="EscaHub\authentication\apps.py" />
+    <Compile Include="EscaHub\authentication\migrations\__init__.py" />
+    <Compile Include="EscaHub\authentication\models.py" />
+    <Compile Include="EscaHub\authentication\tests.py" />
+    <Compile Include="EscaHub\authentication\views.py" />
+    <Compile Include="EscaHub\authentication\__init__.py" />
+    <Compile Include="EscaHub\blog\admin.py" />
+    <Compile Include="EscaHub\blog\apps.py" />
+    <Compile Include="EscaHub\blog\migrations\__init__.py" />
+    <Compile Include="EscaHub\blog\models.py" />
+    <Compile Include="EscaHub\blog\tests.py" />
+    <Compile Include="EscaHub\blog\views.py" />
+    <Compile Include="EscaHub\blog\__init__.py" />
+    <Compile Include="EscaHub\cart\admin.py" />
+    <Compile Include="EscaHub\cart\apps.py" />
+    <Compile Include="EscaHub\cart\migrations\__init__.py" />
+    <Compile Include="EscaHub\cart\models.py" />
+    <Compile Include="EscaHub\cart\tests.py" />
+    <Compile Include="EscaHub\cart\views.py" />
+    <Compile Include="EscaHub\cart\__init__.py" />
+    <Compile Include="EscaHub\content\admin.py" />
+    <Compile Include="EscaHub\content\apps.py" />
+    <Compile Include="EscaHub\content\migrations\__init__.py" />
+    <Compile Include="EscaHub\content\models.py" />
+    <Compile Include="EscaHub\content\tests.py" />
+    <Compile Include="EscaHub\content\views.py" />
+    <Compile Include="EscaHub\content\__init__.py" />
+    <Compile Include="EscaHub\core\admin.py" />
+    <Compile Include="EscaHub\core\apps.py" />
+    <Compile Include="EscaHub\core\migrations\__init__.py" />
+    <Compile Include="EscaHub\core\models.py" />
+    <Compile Include="EscaHub\core\tests.py" />
+    <Compile Include="EscaHub\core\views.py" />
+    <Compile Include="EscaHub\core\__init__.py" />
+    <Compile Include="EscaHub\marketing\admin.py" />
+    <Compile Include="EscaHub\marketing\apps.py" />
+    <Compile Include="EscaHub\marketing\migrations\__init__.py" />
+    <Compile Include="EscaHub\marketing\models.py" />
+    <Compile Include="EscaHub\marketing\tests.py" />
+    <Compile Include="EscaHub\marketing\views.py" />
+    <Compile Include="EscaHub\marketing\__init__.py" />
+    <Compile Include="EscaHub\messenger\admin.py" />
+    <Compile Include="EscaHub\messenger\apps.py" />
+    <Compile Include="EscaHub\messenger\migrations\__init__.py" />
+    <Compile Include="EscaHub\messenger\models.py" />
+    <Compile Include="EscaHub\messenger\tests.py" />
+    <Compile Include="EscaHub\messenger\views.py" />
+    <Compile Include="EscaHub\messenger\__init__.py" />
+    <Compile Include="EscaHub\orders\admin.py" />
+    <Compile Include="EscaHub\orders\apps.py" />
+    <Compile Include="EscaHub\orders\migrations\__init__.py" />
+    <Compile Include="EscaHub\orders\models.py" />
+    <Compile Include="EscaHub\orders\tests.py" />
+    <Compile Include="EscaHub\orders\views.py" />
+    <Compile Include="EscaHub\orders\__init__.py" />
+    <Compile Include="EscaHub\search\admin.py" />
+    <Compile Include="EscaHub\search\apps.py" />
+    <Compile Include="EscaHub\search\migrations\__init__.py" />
+    <Compile Include="EscaHub\search\models.py" />
+    <Compile Include="EscaHub\search\tests.py" />
+    <Compile Include="EscaHub\search\views.py" />
+    <Compile Include="EscaHub\search\__init__.py" />
+    <Compile Include="manage.py" />
+    <Compile Include="EscaHub\__init__.py" />
+    <Compile Include="EscaHub\settings.py" />
+    <Compile Include="EscaHub\urls.py" />
+    <Compile Include="EscaHub\wsgi.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="EscaHub\activities\templates\index.html" />
+    <Content Include="EscaHub\authentication\templates\index.html" />
+    <Content Include="EscaHub\blog\templates\index.html" />
+    <Content Include="EscaHub\cart\templates\index.html" />
+    <Content Include="EscaHub\content\templates\index.html" />
+    <Content Include="EscaHub\core\templates\index.html" />
+    <Content Include="EscaHub\marketing\templates\index.html" />
+    <Content Include="EscaHub\messenger\templates\index.html" />
+    <Content Include="EscaHub\orders\templates\index.html" />
+    <Content Include="EscaHub\search\templates\index.html" />
+    <Content Include="requirements.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EscaHub\" />
+    <Folder Include="EscaHub\activities\" />
+    <Folder Include="EscaHub\activities\migrations\" />
+    <Folder Include="EscaHub\activities\templates\" />
+    <Folder Include="EscaHub\authentication\" />
+    <Folder Include="EscaHub\authentication\migrations\" />
+    <Folder Include="EscaHub\authentication\templates\" />
+    <Folder Include="EscaHub\blog\" />
+    <Folder Include="EscaHub\blog\migrations\" />
+    <Folder Include="EscaHub\blog\templates\" />
+    <Folder Include="EscaHub\cart\" />
+    <Folder Include="EscaHub\cart\migrations\" />
+    <Folder Include="EscaHub\cart\templates\" />
+    <Folder Include="EscaHub\content\" />
+    <Folder Include="EscaHub\content\migrations\" />
+    <Folder Include="EscaHub\content\templates\" />
+    <Folder Include="EscaHub\core\" />
+    <Folder Include="EscaHub\core\migrations\" />
+    <Folder Include="EscaHub\core\templates\" />
+    <Folder Include="EscaHub\marketing\" />
+    <Folder Include="EscaHub\marketing\migrations\" />
+    <Folder Include="EscaHub\marketing\templates\" />
+    <Folder Include="EscaHub\messenger\" />
+    <Folder Include="EscaHub\messenger\migrations\" />
+    <Folder Include="EscaHub\messenger\templates\" />
+    <Folder Include="EscaHub\locale\" />
+    <Folder Include="EscaHub\orders\" />
+    <Folder Include="EscaHub\orders\migrations\" />
+    <Folder Include="EscaHub\orders\templates\" />
+    <Folder Include="EscaHub\search\" />
+    <Folder Include="EscaHub\search\migrations\" />
+    <Folder Include="EscaHub\search\templates\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="env\">
+      <Id>env</Id>
+      <Version>3.6</Version>
+      <Description>env (Python 3.6 (32-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X86</Architecture>
+    </Interpreter>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Django.targets" />
+  <!-- Specify pre- and post-build commands in the BeforeBuild and 
+       AfterBuild targets below. -->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <AutoAssignPort>True</AutoAssignPort>
+          <UseCustomServer>True</UseCustomServer>
+          <CustomServerUrl>http://localhost</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}" User="">
+        <WebProjectProperties>
+          <StartPageUrl>
+          </StartPageUrl>
+          <StartAction>CurrentPage</StartAction>
+          <AspNetDebugging>True</AspNetDebugging>
+          <SilverlightDebugging>False</SilverlightDebugging>
+          <NativeDebugging>False</NativeDebugging>
+          <SQLDebugging>False</SQLDebugging>
+          <ExternalProgram>
+          </ExternalProgram>
+          <StartExternalURL>
+          </StartExternalURL>
+          <StartCmdLineArguments>
+          </StartCmdLineArguments>
+          <StartWorkingDirectory>
+          </StartWorkingDirectory>
+          <EnableENC>False</EnableENC>
+          <AlwaysStartWebServerOnDebug>False</AlwaysStartWebServerOnDebug>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
